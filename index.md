@@ -2,122 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About me
 
-[Link to another page](./another-page.html).
+I'm currently a second year PhD student at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/), and a doctoral affiliate at the [Institute for Public Policices (IPP)](https://www.ipp.eu/). My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
 
-There should be whitespace between paragraphs.
+My current research mainly focuses on the political and economic consequences of social media, with a heavy bent on econometric and computer science methods.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Research
 
-# Header 1
+- Was #MeToo Successful at Fighting Sex Crimes?
+- Mining Narratives from Large Text Corpora, with Elliott Ash & Philine Widmer
+- [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1Om7a3DrE30MBcRSgJhvapELua9VpHqzI/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
+- [Les déterminants de la mobilisation des "Gilets Jaunes"](https://www.cairn.info/revue-economique-2020-1-page-109.htm), with Pierre Boyer, Thomas Delemotte, Vincent Rollet et Benoît Schmutz, Revue Economique, Vol. 71 - 1. Jan. 2020
+  - **Related work**: [Working Paper](http://crest.science/RePEc/wpstorage/2019-06.pdf), [Policy Brief](https://www.ipp.eu/wp-content/uploads/2019/04/n39-notesIPP-avril2019.pdf), [Column](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
+  - **Media coverage**: [France Inter](https://www.franceinter.fr/societe/une-etude-determine-le-chomage-et-les-80-km-h-comme-source-de-la-mobilisation-des-gilets-jaunes), [Le Figaro](http://www.lefigaro.fr/vox/economie/les-gilets-jaunes-ont-ils-vraiment-a-voir-avec-le-passage-a-80-km-h-oui-20190417), [Alternatives Economiques](https://blogs.alternatives-economiques.fr/anota/2019/04/14/du-mur-aux-ronds-points-cartographie-de-l-emergence-des-gilets-jaunes), [Le Parisien](http://www.leparisien.fr/societe/limitation-a-80-km-h-le-grand-flou-20-04-2019-8057055.php), [Libération](https://www.liberation.fr/debats/2019/04/17/gilets-jaunes-le-80-kmh-ne-passe-pas_1721959)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Teaching
 
-## Header 2
+- **Introductory courses**
+  - M1 Master in Economics - [Introduction to Working with Data (2020)](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **Undergraduate level (TA)**
+  - L1 Polytechnique - Introduction to Economics (2018-2020)
+  - L3 ENSAE - Macroeconomics (2018-2019) 
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- **Graduate level (TA)**
+  - MSc ENSAE - Introduction to Econometrics (2018-2019)
+  - M1 Master in Economics - Econometrics (2019-2020) 
