@@ -14,7 +14,7 @@ My current research is a blend of applied econometrics and data science. I study
 
 - The Impact of #MeToo on Sexual Criminality
 
-- Ideological Narratives, with Elliott Ash & Philine Widmer
+- Mining Narratives from Large Text Corpora, with Elliott Ash & Philine Widmer
 
 ### Publications
 
