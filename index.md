@@ -11,6 +11,7 @@ My current research is a blend of applied econometrics and data science. I study
 ### Current Research
 
 - [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1Om7a3DrE30MBcRSgJhvapELua9VpHqzI/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
+  - **Related Work**: [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
 - The Impact of #MeToo on Sexual Criminality
 
@@ -26,7 +27,7 @@ My current research is a blend of applied econometrics and data science. I study
 
 - **Introductory courses**
   - Master in Economics - [Introduction to Working with Data (2020)](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md)
-
+  
 - **Undergraduate level (TA)**
   - Polytechnique - Introduction to Economics (2018-2020)
   - ENSAE - Macroeconomics (2018-2019) 
