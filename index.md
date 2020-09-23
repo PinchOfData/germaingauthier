@@ -11,7 +11,7 @@ My current research is a blend of applied econometrics and data science. I study
 ### Current Research
 
 - [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1Om7a3DrE30MBcRSgJhvapELua9VpHqzI/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
-  - **Related Work**: [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
+  - Related Work: [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
 - The Impact of #MeToo on Sexual Criminality
 
@@ -20,8 +20,8 @@ My current research is a blend of applied econometrics and data science. I study
 ### Publications
 
 - [Les déterminants de la mobilisation des "Gilets Jaunes"](https://www.cairn.info/revue-economique-2020-1-page-109.htm), with Pierre Boyer, Thomas Delemotte, Vincent Rollet et Benoît Schmutz, *Revue Economique*, Vol. 71 - 1. Jan. 2020
-  - **Related work**: [Working Paper](http://crest.science/RePEc/wpstorage/2019-06.pdf), [Policy Brief](https://www.ipp.eu/wp-content/uploads/2019/04/n39-notesIPP-avril2019.pdf), [Column](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
-  - **Media coverage**: [France Inter](https://www.franceinter.fr/societe/une-etude-determine-le-chomage-et-les-80-km-h-comme-source-de-la-mobilisation-des-gilets-jaunes), [Le Figaro](http://www.lefigaro.fr/vox/economie/les-gilets-jaunes-ont-ils-vraiment-a-voir-avec-le-passage-a-80-km-h-oui-20190417), [Alternatives Economiques](https://blogs.alternatives-economiques.fr/anota/2019/04/14/du-mur-aux-ronds-points-cartographie-de-l-emergence-des-gilets-jaunes), [Le Parisien](http://www.leparisien.fr/societe/limitation-a-80-km-h-le-grand-flou-20-04-2019-8057055.php), [Libération](https://www.liberation.fr/debats/2019/04/17/gilets-jaunes-le-80-kmh-ne-passe-pas_1721959)
+  - Related work: [Working Paper](http://crest.science/RePEc/wpstorage/2019-06.pdf), [Policy Brief](https://www.ipp.eu/wp-content/uploads/2019/04/n39-notesIPP-avril2019.pdf), [Column](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
+  - Media coverage: [France Inter](https://www.franceinter.fr/societe/une-etude-determine-le-chomage-et-les-80-km-h-comme-source-de-la-mobilisation-des-gilets-jaunes), [Le Figaro](http://www.lefigaro.fr/vox/economie/les-gilets-jaunes-ont-ils-vraiment-a-voir-avec-le-passage-a-80-km-h-oui-20190417), [Alternatives Economiques](https://blogs.alternatives-economiques.fr/anota/2019/04/14/du-mur-aux-ronds-points-cartographie-de-l-emergence-des-gilets-jaunes), [Le Parisien](http://www.leparisien.fr/societe/limitation-a-80-km-h-le-grand-flou-20-04-2019-8057055.php), [Libération](https://www.liberation.fr/debats/2019/04/17/gilets-jaunes-le-80-kmh-ne-passe-pas_1721959)
 
 ### Teaching
 
