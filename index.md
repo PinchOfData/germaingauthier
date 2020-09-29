@@ -6,7 +6,7 @@ layout: default
 
 I'm currently a second year PhD student at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policices (IPP)](https://www.ipp.eu/). I work under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
 
-My current research is a blend of applied econometrics and data science. I study topics related to political economy.
+My current research is a blend of applied econometrics and data science. I study topics related to political economy and crime.
 
 ### Current Research
 
