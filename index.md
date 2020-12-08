@@ -4,13 +4,17 @@ layout: default
 
 ### About me
 
-I'm currently a second year PhD student at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policices (IPP)](https://www.ipp.eu/). I work under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
+I'm currently a PhD student at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policices (IPP)](https://www.ipp.eu/). I work under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
 
-My current research is a blend of applied econometrics and data science. I study topics related to political economy and crime.
+Topics: social media, protest movements, social norms, political and economic beliefs
+
+Methods: econometrics, text as data, simulations
 
 ### Current Research
 
-- [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1Om7a3DrE30MBcRSgJhvapELua9VpHqzI/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
+- [COVID-19: Reduced forms have gone viral, but what do they tell us?](https://drive.google.com/file/d/1XrEk_oshVt23w8H8gOD9_mIjYn4ne5dV/view?usp=sharing), with Léa Bou Sleiman
+  - [Replication](https://gitlab.com/germain.gauthier/covid-reduced-forms-replication)
+- [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1GsRYCxlEpCC44sUcJ03qizSK7X4abN1K/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
   - Related Work: [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
 - The Impact of #MeToo on Sexual Criminality
