@@ -13,7 +13,7 @@ Methods: econometrics, text as data, simulations
 ### Current Research
 
 - [COVID-19: Reduced forms have gone viral, but what do they tell us?](https://drive.google.com/file/d/1XrEk_oshVt23w8H8gOD9_mIjYn4ne5dV/view?usp=sharing), with Léa Bou Sleiman
-  - [Replication](https://gitlab.com/germain.gauthier/covid-reduced-forms-replication)
+  - Replication: [Public Repository](https://gitlab.com/germain.gauthier/covid-reduced-forms-replication)
 - [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1GsRYCxlEpCC44sUcJ03qizSK7X4abN1K/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
   - Related Work: [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
