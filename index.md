@@ -19,7 +19,7 @@ Methods: econometrics, text as data, simulations
 
 - Telling the Tale: 150 Years of Economic Narratives, with Elliott Ash & Philine Widmer
 
-- The Impact of #MeToo on Sexual Criminality
+- #MeToo: By How Much Did Sexual Crime Reporting Increase?
 
 ### Publications
 
