@@ -17,7 +17,7 @@ Methods: econometrics, text as data, simulations
 - [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1GsRYCxlEpCC44sUcJ03qizSK7X4abN1K/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
   - Related Work: [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
-- Telling the Tale: 150 Years of Economic Narratives, with Elliott Ash & Philine Widmer
+- Mining Narratives from Large Text Corpora, with Elliott Ash & Philine Widmer
 
 - The Impact of #MeToo on Sexual Criminality
 
