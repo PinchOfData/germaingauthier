@@ -4,7 +4,7 @@ layout: default
 
 ### About me
 
-I'm currently a PhD student at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policices (IPP)](https://www.ipp.eu/). I work under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
+I'm currently a PhD student at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policies (IPP)](https://www.ipp.eu/). I work under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
 
 Topics: social media, protest movements, social norms, political and economic beliefs
 
