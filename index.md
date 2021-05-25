@@ -6,6 +6,8 @@ layout: default
 
 I'm currently a PhD student at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policies (IPP)](https://www.ipp.eu/). I work under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
 
+I visited the Center for Data Science and Economics at ETH Zürich for the academic year 2020-2021, invited by [Elliott Ash](https://elliottash.com/).
+
 Topics: social media, protest movements, social norms, political and economic beliefs
 
 Methods: econometrics, text as data, simulations
