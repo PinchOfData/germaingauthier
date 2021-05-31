@@ -8,9 +8,7 @@ I'm currently a PhD student at the [Center for Research in Economics and Statist
 
 I visited the Center for Data Science and Economics at ETH Zürich for the academic year 2020-2021, invited by [Elliott Ash](https://elliottash.com/).
 
-Topics: social media, protest movements, social norms, political and economic beliefs
-
-Methods: econometrics, text as data, simulations
+Research Topics: political economy, applied econometrics, text as data
 
 ### Current Research
 
