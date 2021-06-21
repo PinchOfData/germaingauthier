@@ -12,8 +12,9 @@ Topics: political economy, applied econometrics, text as data
 
 ### Current Research
 
-- [COVID-19: Reduced forms have gone viral, but what do they tell us?](https://drive.google.com/file/d/1ERjcGXD2jvfDFXdI0_NtF4X95UeQ5f4W/view?usp=sharing), with Léa Bou Sleiman
-  - Replication: [Public Repository](https://gitlab.com/germain.gauthier/covid-reduced-forms-replication)
+- [On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing)
+  - A previous version of this work may be found [here](https://drive.google.com/file/d/1ERjcGXD2jvfDFXdI0_NtF4X95UeQ5f4W/view?usp=sharing)
+  - Replication: [Public Repository](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
 - [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1GsRYCxlEpCC44sUcJ03qizSK7X4abN1K/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
   - Related Work: [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
