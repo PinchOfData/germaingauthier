@@ -20,7 +20,7 @@ Topics: political economy, applied econometrics, text as data
 
 - Text Semantics Capture Political and Economic Narratives, with Elliott Ash & Philine Widmer
   - Python package (in development): [Public Repository](https://github.com/elliottash/narrative-nlp)
-  - Related work: [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing), [slides](https://drive.google.com/file/d/1572dwc2MFu_hAPugNBjk6K7rVQAjMGdi/view?usp=sharing)
+  - Related work: [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing), [Slides](https://drive.google.com/file/d/1572dwc2MFu_hAPugNBjk6K7rVQAjMGdi/view?usp=sharing)
 
 - The Impact of #MeToo on Sexual Criminality
 
