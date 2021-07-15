@@ -19,7 +19,8 @@ Topics: political economy, applied econometrics, text as data
   - Related Work: [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
 - Text Semantics Capture Political and Economic Narratives, with Elliott Ash & Philine Widmer
-  - Related work: [Public Repository](https://github.com/elliottash/narrative-nlp), [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing)
+  - Code base to extract narrative statements from text: [Public Repository](https://github.com/elliottash/narrative-nlp)
+  - Related work: [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing)
 
 - The Impact of #MeToo on Sexual Criminality
 
