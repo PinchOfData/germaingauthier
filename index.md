@@ -31,15 +31,10 @@ Topics: political economy, applied econometrics, text as data
   - Related work: [Working Paper](http://crest.science/RePEc/wpstorage/2019-06.pdf), [Policy Brief](https://www.ipp.eu/wp-content/uploads/2019/04/n39-notesIPP-avril2019.pdf), [Column](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
   - Media coverage: [France Inter](https://www.franceinter.fr/societe/une-etude-determine-le-chomage-et-les-80-km-h-comme-source-de-la-mobilisation-des-gilets-jaunes), [Le Figaro](http://www.lefigaro.fr/vox/economie/les-gilets-jaunes-ont-ils-vraiment-a-voir-avec-le-passage-a-80-km-h-oui-20190417), [Alternatives Economiques](https://blogs.alternatives-economiques.fr/anota/2019/04/14/du-mur-aux-ronds-points-cartographie-de-l-emergence-des-gilets-jaunes), [Le Parisien](http://www.leparisien.fr/societe/limitation-a-80-km-h-le-grand-flou-20-04-2019-8057055.php), [Libération](https://www.liberation.fr/debats/2019/04/17/gilets-jaunes-le-80-kmh-ne-passe-pas_1721959)
 
-### Teaching
+### Teaching Assistance
 
-- **Introductory courses**
-  - Master in Economics - [Introduction to Working with Data (2020)](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md)
-  
-- **Undergraduate level (TA)**
-  - Polytechnique - Introduction to Economics (2018-2020)
-  - ENSAE - Macroeconomics (2018-2019) 
-
-- **Graduate level (TA)**
-  - MSc ENSAE - Introduction to Econometrics (2018-2019)
-  - Master in Economics - Econometrics (2019-2020) 
+- Master in Economics - [Introduction to Working with Data (2020)](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md)
+- Polytechnique - Introduction to Economics (2018-2020)
+- ENSAE - Macroeconomics (2018-2019) 
+- MSc ENSAE - Introduction to Econometrics (2018-2019)
+- Master in Economics - Econometrics (2019-2020) 
