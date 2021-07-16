@@ -17,7 +17,7 @@ Topics: political economy, applied econometrics, text as data
   - An early version of this work may be found [here.](https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf)
 
 - [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1GsRYCxlEpCC44sUcJ03qizSK7X4abN1K/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
-  - Related Work: [Slides](https://drive.google.com/file/d/1Q8Th2pIOxVEe2Haicer8WhPG2xZOgqpW/view?usp=sharing), [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
+  - Related work: [Slides](https://drive.google.com/file/d/1Q8Th2pIOxVEe2Haicer8WhPG2xZOgqpW/view?usp=sharing), [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
 - Text Semantics Capture Political and Economic Narratives, with Elliott Ash & Philine Widmer
   - Python package (in development): [Public Repository](https://github.com/elliottash/narrative-nlp)
