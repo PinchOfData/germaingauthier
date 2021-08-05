@@ -12,14 +12,14 @@ Topics: political economy, applied econometrics, text as data
 
 ### Current Research
 
-- [On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing)
+- [On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://arxiv.org/abs/2106.10949)
   - Replication: [Public Repository](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
   - An early version of this work may be found [here.](https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf)
 
 - [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1GsRYCxlEpCC44sUcJ03qizSK7X4abN1K/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
   - Related work: [Slides](https://drive.google.com/file/d/1Q8Th2pIOxVEe2Haicer8WhPG2xZOgqpW/view?usp=sharing), [Blog Post Summary](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
-- Text Semantics Capture Political and Economic Narratives, with Elliott Ash & Philine Widmer
+- [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with Elliott Ash & Philine Widmer
   - Python package (in development): [Public Repository](https://github.com/elliottash/narrative-nlp)
   - Related work: [Slides](https://drive.google.com/file/d/1572dwc2MFu_hAPugNBjk6K7rVQAjMGdi/view?usp=sharing), [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing)
 
