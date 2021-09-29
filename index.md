@@ -22,8 +22,8 @@ You can find my CV [here](https://drive.google.com/file/d/1IHNY8LWqV_W7OMPyQ_kih
   - [Replication files](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
   - An early version of this work may be found [here.](https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf)
 
-- [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1GsRYCxlEpCC44sUcJ03qizSK7X4abN1K/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
-  - [Slides](https://drive.google.com/file/d/1Q8Th2pIOxVEe2Haicer8WhPG2xZOgqpW/view?usp=sharing), [Blog Post](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
+- [The Gilets jaunes: Online and Offline](https://drive.google.com/file/d/1QZfjmDpNroNM9ZkBErMs8-jiW3Hf_-xm/view?usp=sharing), with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz
+  - [Online Appendix](https://drive.google.com/file/d/1a_Doa4HTbqKAmMNMDhd6POf14TU2hSX2/view?usp=sharing), [Older Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3612849), [Slides](https://drive.google.com/file/d/1Q8Th2pIOxVEe2Haicer8WhPG2xZOgqpW/view?usp=sharing), [Blog Post](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
 - The Impact of #MeToo on Sexual Criminality (coming soon)
 
