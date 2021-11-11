@@ -16,11 +16,12 @@ You can find my CV [here](https://drive.google.com/file/d/1IHNY8LWqV_W7OMPyQ_kih
 
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/)
   - <details>
+  
   <summary>Abstract</summary>
   
   Social scientists have become increasingly interested in how narratives – the stories in fiction, politics, and life – shape beliefs, behavior, and government policies. This paper provides an unsupervised method to quantify latent narrative structures in text documents. Our pipeline identifies coherent entity groups and maps explicit relations between them in the text. We provide an application to the United States Congressional Record to analyze political and economic narratives in recent decades. Our analysis highlights the dynamics, sentiment, polarization, and interconnectedness of narratives in political discourse.
-  
-</details>
+
+    </details>
 
   - [Slides](https://drive.google.com/file/d/1572dwc2MFu_hAPugNBjk6K7rVQAjMGdi/view?usp=sharing) / [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing)
   - [Python package](https://github.com/elliottash/narrative-nlp) to mine narratives
