@@ -15,7 +15,6 @@ You can find my CV [here](https://drive.google.com/file/d/1IHNY8LWqV_W7OMPyQ_kih
 ### Current Research
 
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/)
-
   - [Slides](https://drive.google.com/file/d/1572dwc2MFu_hAPugNBjk6K7rVQAjMGdi/view?usp=sharing) / [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing)
   - [Python package](https://github.com/elliottash/narrative-nlp) to mine narratives
 
