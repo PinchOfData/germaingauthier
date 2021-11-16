@@ -14,11 +14,12 @@ You can find my CV [here](https://drive.google.com/file/d/1IHNY8LWqV_W7OMPyQ_kih
 
 ### Current Research
 
-- [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/)
-  - [Slides](https://drive.google.com/file/d/1572dwc2MFu_hAPugNBjk6K7rVQAjMGdi/view?usp=sharing) / [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing) / [Python package](https://github.com/elliottash/narrative-nlp) to mine narratives
+- [Text Semantics Capture Political and Economic Narratives](https://drive.google.com/file/d/1A5ToShU5niJrfK1sMbqfK8b5C3NVrQ_H/view?usp=sharing), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/)
+  - [Working Paper](https://arxiv.org/abs/2108.01720) / [Slides](https://drive.google.com/file/d/1572dwc2MFu_hAPugNBjk6K7rVQAjMGdi/view?usp=sharing) / [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing) / [Python package](https://github.com/elliottash/narrative-nlp) to mine narratives
 
-- [On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://arxiv.org/abs/2106.10949)
-  - [Replication](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git) / [Old Working Paper](https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf)
+- [On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing)
+  - [Working Paper](https://arxiv.org/abs/2106.10949), [Replication](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
+  - An early-stage version of this project may be found [here](https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf).
 
 - [Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1QZfjmDpNroNM9ZkBErMs8-jiW3Hf_-xm/view?usp=sharing), with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/)
   - [Online Appendix](https://drive.google.com/file/d/1a_Doa4HTbqKAmMNMDhd6POf14TU2hSX2/view?usp=sharing) / [Old Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3612849) / [Slides](https://drive.google.com/file/d/1Q8Th2pIOxVEe2Haicer8WhPG2xZOgqpW/view?usp=sharing) / [Blog Post](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
