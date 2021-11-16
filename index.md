@@ -18,7 +18,7 @@ You can find my CV [here](https://drive.google.com/file/d/1IHNY8LWqV_W7OMPyQ_kih
   - [Working Paper](https://arxiv.org/abs/2108.01720) / [Slides](https://drive.google.com/file/d/1572dwc2MFu_hAPugNBjk6K7rVQAjMGdi/view?usp=sharing) / [Poster](https://drive.google.com/file/d/1sk4a4fHVea9uN3JDlhiUhUwRvPSaDNVe/view?usp=sharing) / [Python package](https://github.com/elliottash/narrative-nlp) to mine narratives
 
 - [On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing)
-  - [Working Paper](https://arxiv.org/abs/2106.10949), [Replication](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
+  - [Working Paper](https://arxiv.org/abs/2106.10949) / [Replication](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
   - An early-stage version of this project may be found [here](https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf).
 
 - [Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1QZfjmDpNroNM9ZkBErMs8-jiW3Hf_-xm/view?usp=sharing), with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/)
