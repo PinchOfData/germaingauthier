@@ -12,6 +12,10 @@ Topics: political economy, applied econometrics, text as data
 
 You can find my CV [here](https://drive.google.com/file/d/1IHNY8LWqV_W7OMPyQ_kihxxWdWUr-DRA/view?usp=sharing).
 
+### Upcoming Events
+
+ENSAE/CREST is hosting a Summer Institute in Computational Social Sciences in Paris this year. If you're a young scholar interested in big data, webscraping and natural language processing, be sure to [apply](https://sicss.io/2022/paris/)!
+
 ### Current Research
 
 - [Text Semantics Capture Political and Economic Narratives](https://drive.google.com/file/d/1A5ToShU5niJrfK1sMbqfK8b5C3NVrQ_H/view?usp=sharing), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/)
