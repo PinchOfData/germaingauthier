@@ -19,13 +19,20 @@ ENSAE/CREST is hosting a Summer Institute in Computational Social Sciences in Pa
 ### Current Research
 
 [On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing)
-  - [Replication](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
-  - An early-stage version of this project may be found [here](https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf).
+<details>
+  <summary>Additional Info and Resources</summary>
 
-[Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *(Submitted)*
+- *Abstract:* In the context of the Covid-19 pandemic, multiple studies rely on two-way fixed effects (FE) models to assess the impact of mitigation policies on health outcomes. Building on the SIRD model of disease transmission, I show that FE models tend to be misspecified for three reasons. First, despite misleading common trends in the pre-treatment period, the parallel trends assumption generally does not hold. Second, heterogeneity in infection rates and in-
+fected populations across regions cannot be accounted for by region-specific fixed effects, nor by conditioning on observable time-varying confounders. Third, epidemiological theory predicts heterogeneous treatment effects across regions and over time. Via simulations, I find that the bias resulting from model misspecification can be substantial, in magnitude and sometimes in sign. Overall, my results caution against the use of FE models for mitigation policy evaluation.
+- [Replication](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
+- An early-stage version of this project may be found [here](https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf).
+
+</details>
+
+[Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *Submitted*
   - [Python package](https://github.com/elliottash/narrative-nlp) to mine narratives
 
-[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1QZfjmDpNroNM9ZkBErMs8-jiW3Hf_-xm/view?usp=sharing), with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *(Reject & Resubmit, Journal of Politics)*
+[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1QZfjmDpNroNM9ZkBErMs8-jiW3Hf_-xm/view?usp=sharing), with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *Reject & Resubmit, Journal of Politics*
   - [Online Appendix](https://drive.google.com/file/d/1a_Doa4HTbqKAmMNMDhd6POf14TU2hSX2/view?usp=sharing) / [Old Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3612849) / [Blog Post](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
 Sex Crimes and the Me Too Movement, *(draft available upon request)*
