@@ -66,6 +66,9 @@ An older working paper version of this project may be found <a href="https://pap
 ### Publications
 
 **[Les déterminants de la mobilisation des "Gilets Jaunes"](https://www.cairn.info/revue-economique-2020-1-page-109.htm)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *Revue Economique*, Vol. 71 - 1. Jan. 2020
+
+<u>Keywords:</u> Gilets jaunes, mouvements sociaux
+
 <details>
 <summary>Additional Information</summary>
 
