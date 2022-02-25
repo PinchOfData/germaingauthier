@@ -22,13 +22,13 @@ ENSAE/CREST is hosting a Summer Institute in Computational Social Sciences in Pa
   - [Replication](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
   - An early-stage version of this project may be found [here](https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf).
 
-[Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *Submitted*
+[Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *(Submitted)*
   - [Python package](https://github.com/elliottash/narrative-nlp) to mine narratives
 
-[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1QZfjmDpNroNM9ZkBErMs8-jiW3Hf_-xm/view?usp=sharing), with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *Reject & Resubmit, Journal of Politics*
+[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1QZfjmDpNroNM9ZkBErMs8-jiW3Hf_-xm/view?usp=sharing), with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *(Reject & Resubmit, Journal of Politics)*
   - [Online Appendix](https://drive.google.com/file/d/1a_Doa4HTbqKAmMNMDhd6POf14TU2hSX2/view?usp=sharing) / [Old Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3612849) / [Blog Post](https://blog.ipp.eu/2020/07/15/vers-une-hybridation-des-mouvements-sociaux-et-des-reseaux-sociaux-lexemple-des-gilets-jaunes/)
 
-Sex Crimes and the Me Too Movement *(coming soon)*
+Sex Crimes and the Me Too Movement, *(draft available upon request)*
 
 ### Publications
 
