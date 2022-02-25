@@ -24,7 +24,7 @@ ENSAE/CREST is hosting a Summer Institute in Computational Social Sciences in Pa
   <summary>Additional Resources</summary>
 
 <ul>
-  <li><i>Abstract:</i> In the context of the Covid-19 pandemic, multiple studies rely on two-way fixed effects (FE) models to assess the impact of mitigation policies on health outcomes. Building on the SIRD model of disease transmission, I show that FE models tend to be misspecified for three reasons. First, despite misleading common trends in the pre-treatment period, the parallel trends assumption generally does not hold. Second, heterogeneity in infection rates and in-
+  <li><u><i>Abstract:</i></u> In the context of the Covid-19 pandemic, multiple studies rely on two-way fixed effects (FE) models to assess the impact of mitigation policies on health outcomes. Building on the SIRD model of disease transmission, I show that FE models tend to be misspecified for three reasons. First, despite misleading common trends in the pre-treatment period, the parallel trends assumption generally does not hold. Second, heterogeneity in infection rates and in-
 fected populations across regions cannot be accounted for by region-specific fixed effects, nor by conditioning on observable time-varying confounders. Third, epidemiological theory predicts heterogeneous treatment effects across regions and over time. Via simulations, I find that the bias resulting from model misspecification can be substantial, in magnitude and sometimes in sign. Overall, my results caution against the use of FE models for mitigation policy evaluation.
 </li>
   <li>For replication, see the dedicated [git repo](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git).</li>
