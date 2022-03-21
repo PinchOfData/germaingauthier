@@ -21,7 +21,7 @@ An early-stage version of this project may be found <a href="https://new.crest.s
 </details>
 
 <br/>
-**[Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720)**, with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *Submitted*
+**[Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720)**, with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *Revise & Resubmit, Political Analysis*
 
 <u>Keywords:</u> narratives, memes, natural language processing
 
