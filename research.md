@@ -4,23 +4,6 @@ layout: default
 
 ### Working Papers
 
-**[On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing)**
-
-<u>Keywords:</u> COVID-19, policy evaluation, difference in differences
-
-<details>
-<summary>Additional Information</summary>
-
-<span style="display:inline-block;margin-left:2em;">
-<br>
-<u><i>Abstract:</i></u> In the context of the Covid-19 pandemic, multiple studies rely on two-way fixed effects (FE) models to assess the impact of mitigation policies on health outcomes. Building on the SIRD model of disease transmission, I show that FE models tend to be misspecified for three reasons. First, despite misleading common trends in the pre-treatment period, the parallel trends assumption generally does not hold. Second, heterogeneity in infection rates and in-
-fected populations across regions cannot be accounted for by region-specific fixed effects, nor by conditioning on observable time-varying confounders. Third, epidemiological theory predicts heterogeneous treatment effects across regions and over time. Via simulations, I find that the bias resulting from model misspecification can be substantial, in magnitude and sometimes in sign. Overall, my results caution against the use of FE models for mitigation policy evaluation. <br> <br>
-For replication, see the dedicated <a href="https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git">git repo</a>. <br> <br>
-An early-stage version of this project may be found <a href="https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf">here</a>.
-</span>
-</details>
-
-<br/>
 **[Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720)**, with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *Revise & Resubmit, Political Analysis*
 
 <u>Keywords:</u> narratives, memes, natural language processing
@@ -52,6 +35,25 @@ An older working paper version of this project may be found <a href="https://pap
 </details>
 
 <br>
+
+**[On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing)**
+
+<u>Keywords:</u> COVID-19, policy evaluation, difference in differences
+
+<details>
+<summary>Additional Information</summary>
+
+<span style="display:inline-block;margin-left:2em;">
+<br>
+<u><i>Abstract:</i></u> In the context of the Covid-19 pandemic, multiple studies rely on two-way fixed effects (FE) models to assess the impact of mitigation policies on health outcomes. Building on the SIRD model of disease transmission, I show that FE models tend to be misspecified for three reasons. First, despite misleading common trends in the pre-treatment period, the parallel trends assumption generally does not hold. Second, heterogeneity in infection rates and in-
+fected populations across regions cannot be accounted for by region-specific fixed effects, nor by conditioning on observable time-varying confounders. Third, epidemiological theory predicts heterogeneous treatment effects across regions and over time. Via simulations, I find that the bias resulting from model misspecification can be substantial, in magnitude and sometimes in sign. Overall, my results caution against the use of FE models for mitigation policy evaluation. <br> <br>
+For replication, see the dedicated <a href="https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git">git repo</a>. <br> <br>
+An early-stage version of this project may be found <a href="https://new.crest.science/wp-content/uploads/2021/01/2020-32.pdf">here</a>.
+</span>
+</details>
+
+<br/>
+
 ### Work in Progress
 
 <span style="color:DimGray"> <b> Sex Crimes and the Me Too Movement </b> </span>
