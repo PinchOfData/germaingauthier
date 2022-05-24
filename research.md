@@ -13,7 +13,7 @@ layout: default
 
 <span style="display:inline-block;margin-left:2em;">
 <br>
-We introduce a method to identify coherent entity groups and map explicit relations between them in large text corpora. We provide an application to the US Congressional Record and a programmatic implementation.
+We introduce a method to identify coherent entity groups and map explicit relations between them in large text corpora. We illustrate our approach with an application to the US Congressional Record.
 <br><br>
 Try out the freely distributed python package <a href="https://pypi.org/project/relatio/">relatio</a>.
 </span>
