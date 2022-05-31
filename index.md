@@ -12,8 +12,7 @@ I study topics related to political economy, with a particular focus on social n
 
 I am also an active developer of [relatio](https://github.com/elliottash/narrative-nlp), a python package to mine narrative statements from large text corpora. 
 
-<br><br>
-
+<br>
 
 ### Working Papers
 
@@ -32,7 +31,8 @@ Try out the freely distributed python package <a href="https://pypi.org/project/
 </span>
 </details>
 
-<br/>
+<br>
+
 **[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1QZfjmDpNroNM9ZkBErMs8-jiW3Hf_-xm/view?usp=sharing)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *Reject & Resubmit, Journal of Politics*
 
 <u>Keywords:</u> Gilets jaunes, social media, social movements
@@ -68,8 +68,7 @@ An early-stage version of this project may be found <a href="https://new.crest.s
 </span>
 </details>
 
-<br/>
-
+<br>
 
 ### Work in Progress
 
@@ -81,6 +80,7 @@ An early-stage version of this project may be found <a href="https://new.crest.s
 
 <u>Keywords:</u> gender norms, sex ratio, sex-selective abortion, survival analysis
 
+<br>
 
 ### Publications
 
