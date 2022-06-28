@@ -105,7 +105,7 @@ An early-stage version of this project may be found <a href="https://new.crest.s
 
 ### Teaching Notes
 
-[Slides and exercises](https://github.com/fellennert/sicss-paris-2022) for the Summer Institute in Computational Social Sciences (SICSS Paris 2022), jointly organized with [Felix Lennert](https://felix-lennert.netlify.app/) and [Etienne Ollion](https://ollion.cnrs.fr/).
+[Slides and exercises](https://github.com/fellennert/sicss-paris-2022) for [SICSS Paris 2022](https://sicss.io/2022/paris/), with [Felix Lennert](https://felix-lennert.netlify.app/) and [Etienne Ollion](https://ollion.cnrs.fr/)
 
 [Graduate Level Introductory Course to Stata](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md)
 
