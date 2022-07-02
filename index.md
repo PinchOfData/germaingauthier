@@ -25,7 +25,7 @@ I am also an active developer of [relatio](https://github.com/elliottash/narrati
 
 <span style="display:inline-block;margin-left:2em;">
 <br>
-We study the socio-economic characteristics of the French regions where the Gilets jaunes protests took place (Nov 2018). 
+We study the socio-economic characteristics of the French regions where the Gilets jaunes protests took place. 
 <br><br>
 See also the <a href="http://crest.science/RePEc/wpstorage/2019-06.pdf"> working paper version </a>,<a href="https://www.ipp.eu/wp-content/uploads/2019/04/n39-notesIPP-avril2019.pdf"> policy brief </a> and <a href="https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270"> column </a>. 
 <br><br>
@@ -63,7 +63,7 @@ Try out the freely distributed python package <a href="https://pypi.org/project/
 
 <span style="display:inline-block;margin-left:2em;">
 <br>
-We study the interaction between online and offline mobilizations in the context of the Gilets jaunes protests (Nov 2018) in France.
+We study the interaction between online and offline mobilizations in the context of the Gilets jaunes protests in France.
 <br><br>
 An older working paper version of this project may be found <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3612849"> here </a>. 
 </span>
