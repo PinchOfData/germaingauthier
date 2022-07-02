@@ -4,11 +4,11 @@ layout: default
 
 ### About me
 
-I'm currently a PhD candidate at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policies (IPP)](https://www.ipp.eu/). I work under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
+I'm a PhD candidate at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policies (IPP)](https://www.ipp.eu/). I work under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
 
 I visited the Center for Data Science, Law and Economics at ETH Zürich for the academic year 2020-2021, invited by [Elliott Ash](https://elliottash.com/).
 
-I study topics related to political economy, applied econometrics, and computational linguistics. 
+I study topics related to political economy, econometrics, and computational linguistics. 
 
 I am also an active developer of [relatio](https://github.com/elliottash/narrative-nlp), a python package to mine narrative statements from large text corpora. 
 
@@ -16,7 +16,7 @@ I am also an active developer of [relatio](https://github.com/elliottash/narrati
 
 ### Publications
 
-**[Les déterminants de la mobilisation des "Gilets Jaunes"](https://www.cairn.info/revue-economique-2020-1-page-109.htm)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *Revue Economique*, Vol. 71 - 1. Jan. 2020
+**[Les déterminants de la mobilisation des "Gilets Jaunes"](https://www.cairn.info/revue-economique-2020-1-page-109.htm)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/) - *Revue Economique*, Vol. 71 - 1. Jan. 2020
 
 <u>Keywords:</u> Gilets jaunes, mouvements sociaux
 
@@ -37,7 +37,7 @@ Selected media coverage: <a href="https://www.franceinter.fr/societe/une-etude-d
 
 ### Working Papers
 
-**[RELATIO: Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720)**, with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *Conditionally Accepted, Political Analysis*
+**[RELATIO: Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720)**, with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/) - *Political Analysis (Conditionally Accepted)*
 
 <u>Keywords:</u> narratives, memes, natural language processing
 
@@ -54,7 +54,7 @@ Try out the freely distributed python package <a href="https://pypi.org/project/
 
 <br>
 
-**[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *Reject & Resubmit, Journal of Politics*
+**[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/) - *Journal of Politics (Reject & Resubmit)*
 
 <u>Keywords:</u> Gilets jaunes, social media, social movements
 
