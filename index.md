@@ -37,7 +37,7 @@ Selected media coverage: <a href="https://www.franceinter.fr/societe/une-etude-d
 
 ### Working Papers
 
-**[RELATIO: Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720)**, with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *R&R, Political Analysis*
+**[RELATIO: Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720)**, with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/), *Conditionally Accepted, Political Analysis*
 
 <u>Keywords:</u> narratives, memes, natural language processing
 
@@ -54,7 +54,7 @@ Try out the freely distributed python package <a href="https://pypi.org/project/
 
 <br>
 
-**[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *R&R, Journal of Politics*
+**[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *Reject & Resubmit, Journal of Politics*
 
 <u>Keywords:</u> Gilets jaunes, social media, social movements
 
