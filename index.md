@@ -54,7 +54,7 @@ Try out the freely distributed python package <a href="https://pypi.org/project/
 
 <br>
 
-**[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1QZfjmDpNroNM9ZkBErMs8-jiW3Hf_-xm/view?usp=sharing)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *R&R, Journal of Politics*
+**[Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing)**, with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *R&R, Journal of Politics*
 
 <u>Keywords:</u> Gilets jaunes, social media, social movements
 
@@ -65,7 +65,6 @@ Try out the freely distributed python package <a href="https://pypi.org/project/
 <br>
 We study the interaction between online and offline mobilizations in the context of the Gilets jaunes protests (Nov 2018) in France.
 <br><br>
-See our detailed <a href="https://drive.google.com/file/d/1a_Doa4HTbqKAmMNMDhd6POf14TU2hSX2/view?usp=sharing"> online appendix </a> on the movement. <br><br>
 An older working paper version of this project may be found <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3612849"> here </a>. 
 </span>
 </details>
