@@ -32,6 +32,6 @@ My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandrorib
 
 ### Teaching Notes
 
-- [Slides and exercises](https://github.com/fellennert/sicss-paris-2022) for [SICSS Paris 2022](https://sicss.io/2022/paris/), with [Felix Lennert](https://felix-lennert.netlify.app/) and [Etienne Ollion](https://ollion.cnrs.fr/)
+- [SICSS Paris 2022](https://github.com/fellennert/sicss-paris-2022), with [Felix Lennert](https://felix-lennert.netlify.app/) and [Etienne Ollion](https://ollion.cnrs.fr/)
 
 - [Graduate Level Introductory Course to Stata](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md)
