@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<span style="color:Black">
+
 ### About me
 
 I'm a PhD candidate at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policies (IPP)](https://www.ipp.eu/). My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
@@ -92,11 +94,11 @@ An early-stage version of this project may be found <a href="https://new.crest.s
 
 ### Work in Progress
 
-<span style="color:Black"> <b> Sex Crimes and the Me Too Movement </b> </span>
+<b> Sex Crimes and the Me Too Movement </b> 
 
 <u>Keywords:</u> #metoo, sex crimes, crime reporting, crime deterrence, survival analysis
 
-<span style="color:Black"> <b> Sex Selective Abortions in Indian Households </b> </span>, with [Véronique Gille](https://sites.google.com/site/veroniquegille/home?authuser=0) and [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home?authuser=0)
+<b> Sex Selective Abortions in Indian Households </b>, with [Véronique Gille](https://sites.google.com/site/veroniquegille/home?authuser=0) and [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home?authuser=0)
 
 <u>Keywords:</u> gender norms, sex ratio, sex-selective abortion, survival analysis
 
@@ -108,4 +110,5 @@ An early-stage version of this project may be found <a href="https://new.crest.s
 
 [Graduate Level Introductory Course to Stata](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md)
 
+  </span>
 
