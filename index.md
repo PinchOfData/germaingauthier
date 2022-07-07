@@ -20,7 +20,7 @@ My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandrorib
 
 - [Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing), with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/), *Journal of Politics (Reject & Resubmit)*
 
-- [On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing)
+- [On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics](https://arxiv.org/abs/2106.10949)
   - [Git Repository](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git) 
 
 ### Work in Progress
