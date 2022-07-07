@@ -92,11 +92,11 @@ An early-stage version of this project may be found <a href="https://new.crest.s
 
 ### Work in Progress
 
-<span style="color:DimGray"> <b> Sex Crimes and the Me Too Movement </b> </span>
+<span style="color:Black"> <b> Sex Crimes and the Me Too Movement </b> </span>
 
 <u>Keywords:</u> #metoo, sex crimes, crime reporting, crime deterrence, survival analysis
 
-<span style="color:DimGray"> <b> Sex Selective Abortions in Indian Households </b> </span>, with [Véronique Gille](https://sites.google.com/site/veroniquegille/home?authuser=0) and [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home?authuser=0)
+<span style="color:Black"> <b> Sex Selective Abortions in Indian Households </b> </span>, with [Véronique Gille](https://sites.google.com/site/veroniquegille/home?authuser=0) and [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home?authuser=0)
 
 <u>Keywords:</u> gender norms, sex ratio, sex-selective abortion, survival analysis
 
