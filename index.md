@@ -18,7 +18,7 @@ I study topics related to political economy, econometrics, and computational lin
 ### Working Papers
 
 - [RELATIO: Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) & [Philine Widmer](https://philinew.github.io/) - *Political Analysis (Conditionally Accepted)*
-  - [Python Package](https://pypi.org/project/relatio/) -- [GitHub Repository]
+  - [Python Package](https://pypi.org/project/relatio/) -- [GitHub Repository](https://github.com/relatio-nlp/relatio)
 
 - [Mobilization Without Consolidation: Social Media and the Yellow Vests Protests](https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing), with [Pierre Boyer](https://pierrecboyer.com/), [Thomas Delemotte](http://thomas.delemotte.fr/index.html), [Vincent Rollet](https://sites.google.com/site/vjrollet/home) & [Benoît Schmutz](https://sites.google.com/site/benoitschmutz/) - *Journal of Politics (Reject & Resubmit)*
 
