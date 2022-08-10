@@ -4,9 +4,9 @@ layout: default
 
 ### About me
 
-I'm a PhD candidate at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policies (IPP)](https://www.ipp.eu/). I study topics related to political economy, econometrics, and computational linguistics. 
+I'm a PhD candidate at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policies (IPP)](https://www.ipp.eu/). I study topics related to political economy / law and economics. I also have a keen interest in methods with a focus on survival analysis and natural language processing.
 
-My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). I visited ETH Zürich for the academic year 2020-2021, invited by [Elliott Ash](https://elliottash.com/).
+My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). I am currently visiting ETH Zürich, invited by [Elliott Ash](https://elliottash.com/).
 
 ### Publications
 
