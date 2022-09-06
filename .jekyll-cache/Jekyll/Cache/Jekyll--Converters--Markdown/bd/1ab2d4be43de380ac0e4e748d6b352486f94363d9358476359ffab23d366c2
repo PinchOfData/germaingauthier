@@ -1,0 +1,58 @@
+I"B<h3 id="about-me">About me</h3>
+
+<p>I am a PhD candidate at the <a href="http://crest.science/">Center for Research in Economics and Statistics (CREST)</a> and a doctoral affiliate at the <a href="https://www.ipp.eu/">Institute for Public Policies (IPP)</a>.</p>
+
+<p>I study topics related to political economy, law, and crime. I’m also interested in econometrics and machine learning, with a focus on survival analysis and natural language processing.</p>
+
+<p>My supervisor is <a href="https://sites.google.com/site/alessandroriboni/">Alessandro Riboni</a>. I am currently visiting ETH Zürich, invited by <a href="https://elliottash.com/">Elliott Ash</a>.</p>
+
+<h3 id="publications">Publications</h3>
+
+<ul>
+  <li><a href="https://www.cairn.info/revue-economique-2020-1-page-109.htm">Les déterminants de la mobilisation des “Gilets Jaunes”</a>, with <a href="https://pierrecboyer.com/">Pierre Boyer</a>, <a href="http://thomas.delemotte.fr/index.html">Thomas Delemotte</a>, <a href="https://sites.google.com/site/vjrollet/home">Vincent Rollet</a> &amp; <a href="https://sites.google.com/site/benoitschmutz/">Benoît Schmutz</a>, <em>Revue Economique</em>, Vol. 71 - 1. Jan. 2020
+    <ul>
+      <li><a href="http://crest.science/RePEc/wpstorage/2019-06.pdf">Working Paper</a> – <a href="https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270">Policy Brief</a> – <a href="https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270">Column</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="working-papers">Working Papers</h3>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2108.01720">RELATIO: Text Semantics Capture Political and Economic Narratives</a>, with <a href="https://elliottash.com/">Elliott Ash</a> &amp; <a href="https://philinew.github.io/">Philine Widmer</a>, <em>Political Analysis (Conditionally Accepted)</em>
+    <ul>
+      <li><a href="https://pypi.org/project/relatio/">Python Package</a> – <a href="https://github.com/relatio-nlp/relatio">Git Repository</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing">Mobilization Without Consolidation: Social Media and the Yellow Vests Protests</a>, with <a href="https://pierrecboyer.com/">Pierre Boyer</a>, <a href="http://thomas.delemotte.fr/index.html">Thomas Delemotte</a>, <a href="https://sites.google.com/site/vjrollet/home">Vincent Rollet</a> &amp; <a href="https://sites.google.com/site/benoitschmutz/">Benoît Schmutz</a>, <em>Journal of Politics (Reject &amp; Resubmit)</em></p>
+  </li>
+  <li><a href="https://arxiv.org/abs/2106.10949">On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics</a>
+    <ul>
+      <li><a href="https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git">Git Repository</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="work-in-progress">Work in Progress</h3>
+
+<ul>
+  <li>
+    <p>Sex Crimes and the Me Too Movement (Job Market Paper)</p>
+  </li>
+  <li>
+    <p>Sex Selective Abortions in Indian Households, with <a href="https://sites.google.com/site/veroniquegille/home?authuser=0">Véronique Gille</a> and <a href="https://sites.google.com/site/paulinerossimoulin/home?authuser=0">Pauline Rossi</a></p>
+  </li>
+</ul>
+
+<h3 id="teaching-notes">Teaching Notes</h3>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/fellennert/sicss-paris-2022">SICSS Paris 2022</a>, with <a href="https://felix-lennert.netlify.app/">Felix Lennert</a> and <a href="https://ollion.cnrs.fr/">Etienne Ollion</a></p>
+  </li>
+  <li>
+    <p><a href="https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md">Graduate Level Introductory Course to Stata</a></p>
+  </li>
+</ul>
+:ET
