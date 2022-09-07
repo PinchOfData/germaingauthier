@@ -34,7 +34,6 @@ Sex Crimes and the Me Too Movement (Job Market Paper)
 
 Sex Selective Abortions in Indian Households, with Véronique Gille and Pauline Rossi
 
-
 ### Teaching Notes
 
 SICSS Paris 2022, with Felix Lennert and Etienne Ollion \
