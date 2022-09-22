@@ -12,27 +12,36 @@ My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandrorib
 
 I am currently visiting ETH Zürich, invited by [Elliott Ash](https://elliottash.com/).
 
+**I am on the 2022/2023 academic job market.**
+
 ### Publications
 
-Les déterminants de la mobilisation des "Gilets Jaunes", with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz, Revue Economique, Vol. 71 - 1. Jan. 2020  \
+Les déterminants de la mobilisation des "Gilets Jaunes", with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz, *Revue Economique*, Vol. 71 - 1. Jan. 2020  \
 [[Final Paper]](https://www.cairn.info/revue-economique-2020-1-page-109.htm) -- [[Working Paper]](http://crest.science/RePEc/wpstorage/2019-06.pdf) -- [[Policy Brief]](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270) -- [[Column]](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
 
-### Working Papers
+### Revisions
 
-RELATIO: Text Semantics Capture Political and Economic Narratives, with Elliott Ash & Philine Widmer, Political Analysis (Conditionally Accepted) \
-[[Final Paper]](https://arxiv.org/abs/2108.01720) -- [[Python Package]](https://pypi.org/project/relatio/) -- [[Development]](https://github.com/relatio-nlp/relatio)
+Relatio: Text Semantics Capture Political and Economic Narratives, with Elliott Ash & Philine Widmer, *Conditionally Accepted at Political Analysis* \
+[[Latest Version]](https://arxiv.org/abs/2108.01720) -- [[Python Package]](https://pypi.org/project/relatio/) -- [[Development]](https://github.com/relatio-nlp/relatio) -- [[Code and Data]](www.google.com)
 
-Mobilization Without Consolidation: Social Media and the Yellow Vests Protests, with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz, Journal of Politics (Reject & Resubmit) \
+Mobilization Without Consolidation: Social Media and the Yellow Vests Protests, with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz, *Resubmitted to The Journal of Politics* \
 [[Latest Version]](https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing)
+
+### Work in Progress
 
 On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics \
 [[Latest Version]](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing) -- [[Code and Data]](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git) 
 
-### Work in Progress
+Measuring Crime Incidence and Reporting: Method and Application to #MeToo
 
-Sex Crimes and the Me Too Movement (Job Market Paper)
+Son Preference in Indian Extended Households: Sex-selective Abortions, Birth Spacing, and Stopping Behaviors, with Véronique Gille & Pauline Rossi 
 
-Sex Selective Abortions in Indian Households, with Véronique Gille and Pauline Rossi
+Algorithms, Political Attitudes, and Well-Being, with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya
+
+Did #MeToo increase the legal cost of committing a sex crime? with Roberto Galbiati & Arnaud Philippe 
+
+The Impact of Facebook on US Politics, with Elliott Ash & David Cai
+
 
 ### Teaching Notes
 
