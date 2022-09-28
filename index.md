@@ -12,7 +12,7 @@ My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandrorib
 
 I am currently visiting ETH Zürich, invited by [Elliott Ash](https://elliottash.com/).
 
-**I am on the 2022/2023 academic job market.**
+I am on the 2022-2023 academic job market.
 
 ### Publications
 
