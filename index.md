@@ -14,6 +14,11 @@ I am currently visiting ETH Zürich, invited by [Elliott Ash](https://elliottash
 
 I am on the 2022-2023 academic job market.
 
+### Job Market Paper
+
+Measuring Crime Incidence and Reporting: Method and Application to #MeToo
+[[Latest Version]](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0) 
+
 ### Publications
 
 Les déterminants de la mobilisation des "Gilets Jaunes", with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz, *Revue Economique*, Vol. 71 - 1. Jan. 2020  \
@@ -25,14 +30,12 @@ Relatio: Text Semantics Capture Political and Economic Narratives, with Elliott 
 [[Latest Version]](https://arxiv.org/abs/2108.01720) -- [[Python Package]](https://pypi.org/project/relatio/) -- [[Development]](https://github.com/relatio-nlp/relatio) -- [[Code and Data]](www.google.com)
 
 Mobilization Without Consolidation: Social Media and the Yellow Vests Protests, with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz, *Resubmitted to The Journal of Politics* \
-[[Latest Version]](https://drive.google.com/file/d/1MJrWumsZn_Xrmg4PozvZuZZ-waT0D52D/view?usp=sharing)
+[[Latest Version]](https://www.dropbox.com/s/ax56e7j29jkwvyg/Gilets_Jaunes.pdf?dl=0)
 
 ### Work in Progress
 
 On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics \
-[[Latest Version]](https://drive.google.com/file/d/1mLOq3YQuxKHgllPfpYfh6_UB_W5y9bEd/view?usp=sharing) -- [[Code and Data]](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git) 
-
-Measuring Crime Incidence and Reporting: Method and Application to #MeToo
+[[Latest Version]](https://www.dropbox.com/s/gpofsuuc369hzx6/On_the_Use_of_Two_Way_Fixed_Effects_Models_for_Policy_Evaluation_During_Pandemics.pdf?dl=0) -- [[Code and Data]](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git) 
 
 Son Preference in Indian Extended Households: Sex-selective Abortions, Birth Spacing, and Stopping Behaviors, with Véronique Gille & Pauline Rossi 
 
