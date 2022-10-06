@@ -17,7 +17,7 @@ I am on the 2022-2023 academic job market.
 ### Job Market Paper
 
 Measuring Crime Incidence and Reporting: Method and Application to #MeToo
-[[Latest Version]](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0) 
+[[Latest Version]](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0) -- [[Slides]](https://www.dropbox.com/s/7jex5vdttp7tjq0/Me_Too_Crime___Slides___Sept_2022.pdf?dl=0) 
 
 ### Publications
 
