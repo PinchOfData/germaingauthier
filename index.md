@@ -8,7 +8,9 @@ I am a PhD candidate at the [Center for Research in Economics and Statistics (CR
 
 I am an applied microeconomist interested in political economy, econometrics, machine learning, and text as data.
 
-My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). I am currently visiting ETH Zürich, invited by [Elliott Ash](https://elliottash.com/).
+My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
+
+I am currently visiting ETH Zürich, invited by [Elliott Ash](https://elliottash.com/).
 
 I am on the 2022-2023 academic job market.
 
