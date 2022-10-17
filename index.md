@@ -6,11 +6,9 @@ layout: default
 
 I am a PhD candidate at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policies (IPP)](https://www.ipp.eu/). 
 
-I am an applied microeconomist interested in political economy, law and economics, econometrics, machine learning, and text as data.
+I am an applied microeconomist interested in political economy, econometrics, machine learning, and text as data.
 
-My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
-
-I am currently visiting ETH Zürich, invited by [Elliott Ash](https://elliottash.com/).
+My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). I am currently visiting ETH Zürich, invited by [Elliott Ash](https://elliottash.com/).
 
 I am on the 2022-2023 academic job market.
 
@@ -18,11 +16,6 @@ I am on the 2022-2023 academic job market.
 
 Measuring Crime Incidence and Reporting: Method and Application to #MeToo
 [[Latest Version]](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0) -- [[Slides]](https://www.dropbox.com/s/7jex5vdttp7tjq0/Me_Too_Crime___Slides___Sept_2022.pdf?dl=0) 
-
-### Publications
-
-Les déterminants de la mobilisation des "Gilets Jaunes", with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz, *Revue Economique*, Vol. 71 - 1. Jan. 2020  \
-[[Final Paper]](https://www.cairn.info/revue-economique-2020-1-page-109.htm) -- [[Working Paper]](http://crest.science/RePEc/wpstorage/2019-06.pdf) -- [[Policy Brief]](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270) -- [[Column]](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
 
 ### Revisions
 
@@ -45,6 +38,10 @@ Did #MeToo increase the legal cost of committing a sex crime? with Roberto Galbi
 
 The Impact of Facebook on US Politics, with Elliott Ash & David Cai
 
+### Publications (in French)
+
+Les déterminants de la mobilisation des "Gilets Jaunes", with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz, *Revue Economique*, Vol. 71 - 1. Jan. 2020  \
+[[Final Paper]](https://www.cairn.info/revue-economique-2020-1-page-109.htm) -- [[Working Paper]](http://crest.science/RePEc/wpstorage/2019-06.pdf) -- [[Policy Brief]](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270) -- [[Column]](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
 
 ### Teaching Notes
 
