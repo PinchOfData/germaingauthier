@@ -6,7 +6,7 @@ layout: default
 
 I am a PhD candidate at the [Center for Research in Economics and Statistics (CREST)](http://crest.science/) and a doctoral affiliate at the [Institute for Public Policies (IPP)](https://www.ipp.eu/). 
 
-I am an applied microeconomist interested in political economy, econometrics, machine learning, and text as data.
+I am an applied microeconomist interested in political economy, crime, econometrics, machine learning, and text as data.
 
 My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/). 
 
