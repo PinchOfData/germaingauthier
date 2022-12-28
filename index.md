@@ -21,7 +21,7 @@ Measuring Crime Incidence and Reporting: Method and Application to #MeToo
 
 ### Revisions
 
-Relatio: Text Semantics Capture Political and Economic Narratives, with Elliott Ash & Philine Widmer, *Conditionally Accepted at Political Analysis* \
+Relatio: Text Semantics Capture Political and Economic Narratives, with Elliott Ash & Philine Widmer, *Accepted at Political Analysis* \
 [[Latest Version]](https://arxiv.org/abs/2108.01720) -- [[Python Package]](https://pypi.org/project/relatio/) -- [[Development]](https://github.com/relatio-nlp/relatio) -- [[Code and Data]](www.google.com)
 
 ### Work in Progress
