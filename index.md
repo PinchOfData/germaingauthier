@@ -20,7 +20,7 @@ My supervisor is [Alessandro Riboni](https://sites.google.com/site/alessandrorib
 - Relatio: Text Semantics Capture Political and Economic Narratives \
 (with Elliott Ash & Philine Widmer) \
 *Forthcoming at Political Analysis* \
-[[Latest Version]](https://arxiv.org/abs/2108.01720) -- [[Python Package]](https://pypi.org/project/relatio/) -- [[Development]](https://github.com/relatio-nlp/relatio/tree/relatio-v0.3) -- [[Code and Data]](www.google.com)
+[[Latest Version]](https://arxiv.org/abs/2108.01720) -- [[Python Package]](https://pypi.org/project/relatio/) -- [[Development Branch]](https://github.com/relatio-nlp/relatio/tree/relatio-v0.3) -- [[Code and Data]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3BRWKK&faces-redirect=true)
 
 - Les déterminants de la mobilisation des "Gilets Jaunes" \
 (with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) \
