@@ -1,6 +1,32 @@
-title: Germain Gauthier
-logo: /assets/img/germain.png
-description: 
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+# ----------- CONFIGURABLE START -----------
+title:            "Germain Gauthier"
+description:      ""
+url:              https://pinchofdata.github.io/germaingauthier/ # Site url, without a slash at the end.
+signoff:          "Germain Gauthier" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
+
+links:
+  - name:         About me
+    url:          /index
+    external:     false
+  - name:         Research
+    url:          /research
+    external:     false
+  - name:         Teaching
+    url:          /teaching
+    external:     false
+  - name:         Software
+    url:          /software
+    external:     false
+  - name:         Contact
+    url:          /contact
+    external:     false
+    
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /about
+defaults:
+  - values:
+      layout: "default"
