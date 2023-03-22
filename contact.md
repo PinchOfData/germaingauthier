@@ -9,4 +9,4 @@ Center for Law, Economics, and Data Science \
 Haldeneggsteig 4 \
 8092 Zürich
 
-Email: gegauthier@ethz.ch
+Email: germain.jean.gauthier@gmail.com
