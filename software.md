@@ -12,5 +12,5 @@ Our package then allows users to plot narratives as directed multigraphs ([some 
 
 The method is described in greater detail in the [original paper](https://arxiv.org/abs/2108.01720). 
 
-Check out the [PyPi version](https://pypi.org/project/relatio/) and the [latest development version](https://github.com/relatio-nlp/relatio/tree/relatio-v0.3) for your own applications.
+Check out the [PyPi version](https://pypi.org/project/relatio/) and the [latest development version](https://github.com/relatio-nlp/relatio) for your own applications.
 
