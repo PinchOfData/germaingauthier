@@ -22,7 +22,7 @@ title: Research
 
 - [**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0)
 
-- [**Mobilization Without Consolidation: Social Media and the Yellow Vests Protests**](https://www.dropbox.com/s/ax56e7j29jkwvyg/Gilets_Jaunes.pdf?dl=0) \
+- **Mobilization Without Consolidation: Social Media and the Yellow Vests Protests** \
 (with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) 
 
 ---
