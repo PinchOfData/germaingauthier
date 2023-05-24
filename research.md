@@ -29,8 +29,14 @@ title: Research
 
 ### Work in Progress
 
-- **Mobilization Without Consolidation: Social Media and the Yellow Vests Protests** \
+- **Unpacking Fertility Decisions: Stopping, Spacing, and Sex-selective Abortions** \
+(with Véronique Gille and Pauline Rossi)
+
+- **Social Media and the Dynamics of Protests** \
 (with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) 
 
 - **Algorithms, Political Attitudes, and Well-Being** \
 (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya)
+
+- **Generalized Topic Models** \
+(with Elliott Ash and Philine Widmer)
