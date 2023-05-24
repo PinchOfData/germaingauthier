@@ -30,7 +30,7 @@ title: Research
 ### Work in Progress
 
 - **Unpacking Fertility Decisions: Stopping, Spacing, and Sex-selective Abortions** \
-(with Véronique Gille and Pauline Rossi)
+(with Véronique Gille & Pauline Rossi)
 
 - **Social Media and the Dynamics of Protests** \
 (with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) 
@@ -39,4 +39,4 @@ title: Research
 (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya)
 
 - **Generalized Topic Models** \
-(with Elliott Ash and Philine Widmer)
+(with Elliott Ash & Philine Widmer)
