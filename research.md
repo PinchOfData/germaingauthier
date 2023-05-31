@@ -8,7 +8,7 @@ title: Research
 
 - [**Relatio: Text Semantics Capture Political and Economic Narratives**](https://arxiv.org/abs/2108.01720) \
 (with Elliott Ash & Philine Widmer) \
-*Accepted at **Political Analysis*** \
+***Political Analysis***, 2023 \
 [[Python Package]](https://pypi.org/project/relatio/) -- [[GitHub]](https://github.com/relatio-nlp/relatio/tree/relatio-v0.3) -- [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3BRWKK&faces-redirect=true)
 
 - [**Les déterminants de la mobilisation des "Gilets Jaunes"**](https://www.cairn.info/revue-economique-2020-1-page-109.htm) \
