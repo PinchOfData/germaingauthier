@@ -1,9 +1,3 @@
----
-title: Research
----
-
----
-
 ### Publications
 
 - [**Relatio: Text Semantics Capture Political and Economic Narratives**](https://arxiv.org/abs/2108.01720) \

@@ -1,9 +1,3 @@
----
-title: About me
----
-
----
-
 <div align="center"> <img class="skill-row-img" src="./images/germain_relaxed.jpg" width=200 > </div>
 
 ---

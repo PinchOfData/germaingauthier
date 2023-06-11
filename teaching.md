@@ -1,9 +1,3 @@
----
-title: Teaching
----
-
----
-
 ### Summer Institute in Computational Social Science
 
 - [**SICSS Paris -- 2022**](https://github.com/fellennert/sicss-paris-2022) (with Felix Lennert and Etienne Ollion) 

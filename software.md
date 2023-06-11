@@ -1,9 +1,3 @@
----
-title: Software
----
-
----
-
 **Relatio** is a Python package to extract simple narrative statements from large text corpora (e.g., "Taxes ruin the economy.", "Democrats stole the election.", "People are losing their jobs."). 
 
 For a given corpus, we map semantic relationships between K latent entities. The number of latent entities is chosen by the user (we offer quantitative metrics for a data-driven choice). 
