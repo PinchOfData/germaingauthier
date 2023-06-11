@@ -1,8 +1,4 @@
 ---
-title: Contact
----
-
----
 
 ETH Zürich \
 Center for Law, Economics, and Data Science \
