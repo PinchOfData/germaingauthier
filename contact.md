@@ -1,5 +1,3 @@
----
-
 ETH Zürich \
 Center for Law, Economics, and Data Science \
 Haldeneggsteig 4 \
