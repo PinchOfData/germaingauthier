@@ -3,6 +3,8 @@ permalink: /index
 ---
 
 <div align="center"> <img class="skill-row-img" src="./images/Germain_Gauthier.jpg" width=200 > </div>
+
+\ 
   
 I am a PostDoc in the [Law, Economics, and Data Science Group](https://lawecon.ethz.ch/) at [ETH Zürich](https://ethz.ch/de.html). 
 
