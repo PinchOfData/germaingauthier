@@ -1,3 +1,7 @@
+---
+permalink: /research
+---
+
 ### Publications
 
 - [**Relatio: Text Semantics Capture Political and Economic Narratives**](https://arxiv.org/abs/2108.01720) \
@@ -34,3 +38,6 @@
 
 - **Generalized Topic Models** \
 (with Elliott Ash & Philine Widmer)
+
+- **The Impact of Facebook on US Politics** \
+(with Elliott Ash & David Cai)
