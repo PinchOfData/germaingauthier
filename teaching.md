@@ -6,7 +6,7 @@ permalink: /teaching
 
 - **Public Finance (2023)**
 
-- **Text as Data for the Social Sciences (2023)**
+- **Text as Data for the Social Sciences (2023)** (with Philine Widmer)
 
 - [**SICSS Paris (2022)**](https://github.com/fellennert/sicss-paris-2022) (with Felix Lennert and Etienne Ollion) 
 
