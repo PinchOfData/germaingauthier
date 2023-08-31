@@ -2,9 +2,9 @@
 permalink: /contact
 ---
 
-ETH Zürich \
-Center for Law, Economics, and Data Science \
-Haldeneggsteig 4 \
-8092 Zürich
+Bocconi University \
+Department of Social and Political Sciences \
+Via Röntgen \
+Milan, Italy 
 
 Email: germain.jean.gauthier@gmail.com
