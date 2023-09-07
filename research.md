@@ -23,17 +23,11 @@ permalink: /research
 
 ### Work in Progress
 
-- **Unpacking Fertility Decisions: Stopping, Spacing, and Sex-selective Abortions** \
-(with Véronique Gille & Pauline Rossi) 
-
 - **Algorithms, Political Attitudes, and Well-Being** \
 (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya)
 
 - **Generalized Topic Models** \
 (with Elliott Ash & Philine Widmer)
-
-- **The Impact of Facebook on US Politics** \
-(with Elliott Ash & David Cai)
 
 ### Short Notes / Comments
 
