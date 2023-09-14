@@ -11,3 +11,5 @@ I am an Assistant Professor of Economics at the [Department of Social and Politi
 I conduct methodological and applied work at the intersection of economics and political science. 
 
 You can find my CV [here](https://www.dropbox.com/s/wo9xrlgyodbgth1/CV_Germain_Gauthier.pdf?dl=0).
+
+Affiliations: [DONDENA](https://dondena.unibocconi.eu/), [AXA Gender Lab](https://genderlab.unibocconi.eu/)
