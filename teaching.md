@@ -29,7 +29,20 @@ Natural language processing (NLP) holds great promise for economic and social sc
 
 </details>  
 
-[**SICSS Paris (2022)**](https://github.com/fellennert/sicss-paris-2022) (with Felix Lennert and Etienne Ollion) 
+[**Summer Institute in Computational Social Science (CREST, 2022)**](https://github.com/fellennert/sicss-paris-2022) (with Felix Lennert and Etienne Ollion) 
 
-[**Graduate Level Introductory Course to Stata (2020)**](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md) 
+<details>
+  <summary>Course Description</summary>
 
+The Summer Institutes aim to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. They are for both social scientists (broadly conceived) and data scientists (broadly conceived). During the 2022 edition, lectures focused on web-scraping, text as data, and ethics.
+
+</Details>
+
+[**Graduate Level Introductory Course to Stata (CREST, 2020)**](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md) 
+
+<details>
+  <summary>Course Description</summary>
+
+A brief overview of Stata functionalities for applied economic research.
+
+</Details>
