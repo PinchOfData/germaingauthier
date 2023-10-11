@@ -6,12 +6,12 @@ permalink: /research
 
 - **Relatio: Text Semantics Capture Political and Economic Narratives** \
 (with Elliott Ash & Philine Widmer) \
-***Political Analysis***, 2023 \
+*Political Analysis*, 2023 \
 [Paper](https://www.cambridge.org/core/journals/political-analysis/article/relatio-text-semantics-capture-political-and-economic-narratives/E72C0482A44C9A817E381B394A73E2D6) | [Python Package](https://pypi.org/project/relatio/) | [GitHub](https://github.com/relatio-nlp/relatio/tree/relatio-v0.3) | [Code and Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3BRWKK&faces-redirect=true)
 
 - **Les déterminants de la mobilisation des "Gilets Jaunes"** \
 (with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) \
-***Revue Economique***, Vol. 71 - 1. Jan. 2020  \
+*Revue Economique*, Vol. 71 - 1. Jan. 2020  \
 [Paper](https://www.cairn.info/revue-economique-2020-1-page-109.htm) | [Policy Brief](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270) | [Column](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
 
 ### Working Papers
