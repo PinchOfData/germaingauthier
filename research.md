@@ -17,7 +17,7 @@ permalink: /research
 ### Working Papers
 
 - **Measuring Crime Incidence and Reporting: Method and Application to #MeToo** \
-[Paper](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0)
+[Paper](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0) | [Slides](https://www.dropbox.com/scl/fi/bz5zwx8rc8vxas6v8pjfx/Me_Too_Crime___Slides___Submitted_Version.pdf?rlkey=0stqdn0ol51xmk7fwscmcja8p&dl=0)
 
 - **Social Media and the Dynamics of Protests** \
 (with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) \
