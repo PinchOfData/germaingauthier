@@ -2,7 +2,7 @@
 permalink: /teaching
 ---
 
-**Diversity and Global Policy (Bocconi, 2023)**
+[**Diversity and Global Policy (Bocconi, 2023)**](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EmSf2ln-SLxHtMyXxRb10EcBXjuJVVQ99pyt6U4dBy7-UA?e=R5nucy)
 
 <details>
   <summary>Course Description</summary>
@@ -11,7 +11,7 @@ This course discusses diversity, fairness, and efficiency from a global perspect
 
 </details>  
 
-**Public Finance (Bocconi, 2023)**
+[**Public Finance (Bocconi, 2023)**](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EjkEK1I-b6NNpzQQp3TsnHYBVr8O_WnVfb__GVoXV4dNmw?e=SMMpeb)
 
 <details>
   <summary>Course Description</summary>
