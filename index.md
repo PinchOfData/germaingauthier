@@ -12,4 +12,4 @@ I conduct methodological and applied work at the intersection of economics and p
 
 You can find my CV [here](https://www.dropbox.com/s/wo9xrlgyodbgth1/CV_Germain_Gauthier.pdf?dl=0).
 
-Affiliations: [IGIER](https://igier.unibocconi.eu/), [DONDENA](https://dondena.unibocconi.eu/), [AXA Gender Lab](https://genderlab.unibocconi.eu/)
+Affiliations: [Cesifo](https://cesifo.org/en), [IGIER](https://igier.unibocconi.eu/), [DONDENA](https://dondena.unibocconi.eu/), [AXA Gender Lab](https://genderlab.unibocconi.eu/)
