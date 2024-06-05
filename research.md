@@ -27,8 +27,14 @@ permalink: /research
 **Algorithms, Political Attitudes, and Well-Being** \
 (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya)
 
+**Generative AI & Labor Market Discrimination** \
+(with Kenza Elass, Debora Nozza, and Paola Profeta)
+
 **Generalized Topic Models** \
 (with Elliott Ash & Philine Widmer)
+
+**Neural Ideal Point Models** \
+(with Hugo Subtil)
 
 ### Short Notes / Comments
 
