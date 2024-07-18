@@ -19,8 +19,8 @@ permalink: /research
 [**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0) \
 [(SSRN Version)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4242506) [(Slides)](https://www.dropbox.com/scl/fi/bz5zwx8rc8vxas6v8pjfx/Me_Too_Crime___Slides___Submitted_Version.pdf?rlkey=0stqdn0ol51xmk7fwscmcja8p&dl=0)
 
-[**Social Media and the Dynamics of Protests**](https://www.cesifo.org/en/publications/2020/working-paper/social-media-and-dynamics-protests) \
-(with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) 
+[**The Lifecycle of Protests in the Digital Age**](https://www.dropbox.com/scl/fi/dwstzxzo0pa5lls5lbvmu/Gilets_Jaunes_Theory_Empirics.pdf?rlkey=4hsj8wytobeh9a7idw8q957fs&st=goatnj9p&dl=0) \
+(with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz) 
 
 ### Work in Progress
 
