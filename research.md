@@ -24,17 +24,17 @@ permalink: /research
 
 ### Work in Progress
 
-**Algorithms, Political Attitudes, and Well-Being** \
+**The Political Effects of X’s Recommender Algorithm** \
 (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya)
-
-**Generative AI & Labor Market Discrimination** \
-(with Kenza Elass, Debora Nozza, and Paola Profeta)
 
 **Neural Latent Variable Models for Unstructured Data** \
 (with Elliott Ash & Philine Widmer)
 
 **Neural Ideal Point Models** \
 (with Hugo Subtil)
+
+**Generative AI & Labor Market Discrimination** \
+(with Kenza Elass, Debora Nozza, and Paola Profeta)
 
 ### Short Notes / Comments
 
