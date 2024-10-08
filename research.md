@@ -30,7 +30,7 @@ permalink: /research
 **Generative AI & Labor Market Discrimination** \
 (with Kenza Elass, Debora Nozza, and Paola Profeta)
 
-**Generalized Topic Models** \
+**Neural Latent Variable Models for Unstructured Data** \
 (with Elliott Ash & Philine Widmer)
 
 **Neural Ideal Point Models** \
