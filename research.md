@@ -35,6 +35,9 @@ permalink: /research
 **Neural Latent Variable Models for Unstructured Data** \
 (with Elliott Ash & Philine Widmer)
 
+**generalized_topic_models: A Python Package to Estimate Flexible Neural Topic Models** \
+(with Elliott Ash & Philine Widmer)
+
 **Neural Ideal Point Models** \
 (with Hugo Subtil)
 
