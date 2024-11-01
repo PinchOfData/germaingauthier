@@ -43,9 +43,3 @@ permalink: /research
 
 **IdealPointNN: A Python Package to Estimate Neural Ideal Point Models** \
 (with Hugo Subtil)
-
-**Unpacking Fertility Decisions: Stopping, Spacing, and Sex-selective Abortions** \
-(with Véronique Gille, Pauline Rossi, and Josh Wilde)
-
-**Generative AI & Labor Market Discrimination** \
-(with Kenza Elass, Debora Nozza, and Paola Profeta)
