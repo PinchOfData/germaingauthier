@@ -2,25 +2,14 @@
 <!doctype>
 <html lang="en">
   <head> 
-    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
-    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title> 
     {% include head.html %}
   </head>
-  <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
+  <body class="lh-copy dark-gray pa0 f6 serif bg-super-white">
     <header class="tc mt4">
       <p style="font-size: 26px"><b>{{ site.title }}</b></p>
     </header>
     <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
       <font size="4"> 
-      <nav class="bb b--light-gray pv4 tc" aria-label="Main">
-        {% for link in site.links %}
-          <a class="link blue hover-mid-gray mh2 pv1"
-             href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
-             {{ link.name }}
-           </a>
-        {% endfor %}
-      </nav>
       </font>
 
       <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
@@ -34,4 +23,18 @@
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
   </body>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Select all anchor tags
+    document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+      // Check if the link is external by ensuring it does not contain the site's domain
+      if (link.hostname !== window.location.hostname) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+  });
+</script>
+
 </html>
