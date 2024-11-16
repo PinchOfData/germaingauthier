@@ -9,7 +9,7 @@ Department of Social and Political Sciences \
 Bocconi University 
 
 germain.gauthier@unibocconi.it \
-[curriculim vitae](https://www.dropbox.com/s/wo9xrlgyodbgth1/CV_Germain_Gauthier.pdf?dl=0)
+[curriculum vitae](https://www.dropbox.com/s/wo9xrlgyodbgth1/CV_Germain_Gauthier.pdf?dl=0)
 
 
 ## Research
