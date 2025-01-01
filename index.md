@@ -28,9 +28,6 @@ germain.gauthier@unibocconi.it \
 [**generalized_topic_models: A Python Package to Estimate Neural Topic Models**](https://www.dropbox.com/scl/fi/g8j1wec3uy7g1w37gapdc/GTM_JSS_draft.pdf?rlkey=pdfmylxxcs5r6w2f0hilb74xo&st=vhvci1kz&dl=0) \
 (with Elliott Ash & Philine Widmer) 
 
-[**On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics**](https://www.dropbox.com/s/gpofsuuc369hzx6/On_the_Use_of_Two_Way_Fixed_Effects_Models_for_Policy_Evaluation_During_Pandemics.pdf?dl=0) \
-[arXiv version](https://arxiv.org/abs/2106.10949), [replication files](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git) 
-
 **The Political Effects of X’s Recommender Algorithm** \
 (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya)
 
@@ -52,6 +49,12 @@ germain.gauthier@unibocconi.it \
 (with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) \
 <u>Revue Economique</u>, Vol. 71 - 1. Jan. 2020  \
 [policy brief](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270), [column](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
+
+
+### Oldies
+
+[**On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics**](https://www.dropbox.com/s/gpofsuuc369hzx6/On_the_Use_of_Two_Way_Fixed_Effects_Models_for_Policy_Evaluation_During_Pandemics.pdf?dl=0) \ 
+[arxiv version](https://arxiv.org/abs/2106.10949), [replication files](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
 
 
 ## Teaching
