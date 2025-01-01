@@ -53,7 +53,7 @@ germain.gauthier@unibocconi.it \
 
 ### Oldies
 
-[**On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics**](https://www.dropbox.com/s/gpofsuuc369hzx6/On_the_Use_of_Two_Way_Fixed_Effects_Models_for_Policy_Evaluation_During_Pandemics.pdf?dl=0) \ 
+[**On the Use of Two-Way Fixed Effects Models for Policy Evaluation During Pandemics**](https://www.dropbox.com/s/gpofsuuc369hzx6/On_the_Use_of_Two_Way_Fixed_Effects_Models_for_Policy_Evaluation_During_Pandemics.pdf?dl=0) \
 [arxiv version](https://arxiv.org/abs/2106.10949), [replication files](https://gitlab.com/germain.gauthier/covid-two-way-fixed-effects.git)
 
 
