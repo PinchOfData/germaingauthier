@@ -2,12 +2,15 @@
 
 .bg-super-white { 
   background: #f9f9f9; 
-  max-width: 1500px;  /* Added max-width for wider content */
-  margin: 0 auto;     /* Center the content */
 }
 
-.top-50 { top: 50% }
-.link:hover { background: url(/images/line.png) repeat-x left bottom; }
+.top-50 { 
+  top: 50% 
+}
+
+.link:hover { 
+  background: url(/images/line.png) repeat-x left bottom; 
+}
 
 .skill-row-img {
   border-radius: 999999px; 
@@ -18,26 +21,30 @@
   text-decoration: none;
   color: #3a72ba;
 }
+
 .markdown-body .highlighter-rouge {
   padding: .25rem .5rem;
 }
+
 .markdown-body pre {
   margin: 0;
   overflow: auto;
 }
+
 .markdown-body > .highlighter-rouge,
 .markdown-body > blockquote {
-  padding: .5rem 4rem;
-  margin: 2em -4rem;
+  padding: .5rem 6rem;  /* Increased from 4rem to 6rem */
+  margin: 2em -6rem;    /* Increased from -4rem to -6rem */
 }
+
 .markdown-body > hr {
-  margin: 2em -4rem;
+  margin: 2em -6rem;    /* Increased from -4rem to -6rem */
   border: 0;
   border-bottom: 1px dotted #CCC;
 }
+
 .markdown-body blockquote {
   background: #f9f9f9;
   border-left: .2rem solid #ccc;
-  padding-left: 3.8rem;
+  padding-left: 5.8rem;  /* Increased from 3.8rem to 5.8rem */
 }
-/* end Markdown styles */
