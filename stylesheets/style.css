@@ -8,11 +8,6 @@
   border-radius: 999999px; 
 }
 
-.markdown-body {
-    max-width: 1500px; /* Increase this value to make it wider */
-    margin: 0 auto;    /* Keep it centered */
-}
-
 /* Markdown styles */
 .markdown-body a {
   text-decoration: none;
