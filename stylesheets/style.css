@@ -1,10 +1,5 @@
 @import "https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css";
 
-/* Custom width between mw7 and mw8 */
-.mw7-5 {
-  max-width: 56rem;
-}
-
 .bg-super-white { 
   background: #f9f9f9; 
 }
