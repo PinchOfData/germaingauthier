@@ -1,6 +1,11 @@
 @import "https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css";
 
-.bg-super-white { background: #f9f9f9; }
+.bg-super-white { 
+  background: #f9f9f9; 
+  max-width: 1500px;  /* Added max-width for wider content */
+  margin: 0 auto;     /* Center the content */
+}
+
 .top-50 { top: 50% }
 .link:hover { background: url(/images/line.png) repeat-x left bottom; }
 
