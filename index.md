@@ -19,8 +19,7 @@ germain.gauthier@unibocconi.it \
 [**Deep Latent Variable Models for Unstructured Data**](https://www.dropbox.com/scl/fi/c30hibel8ad93owfiz2lh/Deep_Latent_Variable_Models_for_Unstructured_Data.pdf?rlkey=xn9u9og0d0a603i4b7j4i511a&st=pisq7110&dl=0) \
 (with Elliott Ash & Philine Widmer) 
 
-[**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0) \
-[ssrn version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4242506), [slides](https://www.dropbox.com/scl/fi/bz5zwx8rc8vxas6v8pjfx/Me_Too_Crime___Slides___Submitted_Version.pdf?rlkey=0stqdn0ol51xmk7fwscmcja8p&dl=0)
+[**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0)
 
 [**The Lifecycle of Protests in the Digital Age**](https://www.dropbox.com/scl/fi/dwstzxzo0pa5lls5lbvmu/Gilets_Jaunes_Theory_Empirics.pdf?rlkey=4hsj8wytobeh9a7idw8q957fs&st=vc72qdeu&dl=0) \
 (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz) 
