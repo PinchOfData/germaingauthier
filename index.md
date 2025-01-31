@@ -14,15 +14,15 @@ germain.gauthier@unibocconi.it \
 
 ## Research
 
-### Current Research
-
-[**Deep Latent Variable Models for Unstructured Data**](https://www.dropbox.com/scl/fi/c30hibel8ad93owfiz2lh/Deep_Latent_Variable_Models_for_Unstructured_Data.pdf?rlkey=xn9u9og0d0a603i4b7j4i511a&st=pisq7110&dl=0) \
-(with Elliott Ash & Philine Widmer) 
+### Current Research 
 
 [**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0)
 
 [**The Lifecycle of Protests in the Digital Age**](https://www.dropbox.com/scl/fi/dwstzxzo0pa5lls5lbvmu/Gilets_Jaunes_Theory_Empirics.pdf?rlkey=4hsj8wytobeh9a7idw8q957fs&st=vc72qdeu&dl=0) \
 (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz) 
+
+[**Deep Latent Variable Models for Unstructured Data**](https://www.dropbox.com/scl/fi/c30hibel8ad93owfiz2lh/Deep_Latent_Variable_Models_for_Unstructured_Data.pdf?rlkey=xn9u9og0d0a603i4b7j4i511a&st=pisq7110&dl=0) \
+(with Elliott Ash & Philine Widmer)
 
 [**generalized_topic_models: A Python Package to Estimate Neural Topic Models**](https://www.dropbox.com/scl/fi/g8j1wec3uy7g1w37gapdc/GTM_JSS_draft.pdf?rlkey=pdfmylxxcs5r6w2f0hilb74xo&st=vhvci1kz&dl=0) \
 (with Elliott Ash & Philine Widmer) 
