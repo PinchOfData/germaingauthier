@@ -58,26 +58,26 @@ I mainly study the societal consequences of digital technologies, such as social
 
 ## Teaching
 
-Graduate Level - Diversity and Global Policy (Bocconi, 2023/2024) \
-[slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EmSf2ln-SLxHtMyXxRb10EcBXjuJVVQ99pyt6U4dBy7-UA?e=R5nucy)
+- Graduate Level - Diversity and Global Policy (Bocconi, 2023/2024) \
+  [slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EmSf2ln-SLxHtMyXxRb10EcBXjuJVVQ99pyt6U4dBy7-UA?e=R5nucy)
 
-Undergraduate Level -  Public Finance (Bocconi, 2023/2024) \
-[slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EjkEK1I-b6NNpzQQp3TsnHYBVr8O_WnVfb__GVoXV4dNmw?e=SMMpeb)
+- Undergraduate Level -  Public Finance (Bocconi, 2023/2024) \
+  [slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EjkEK1I-b6NNpzQQp3TsnHYBVr8O_WnVfb__GVoXV4dNmw?e=SMMpeb)
 
-Graduate Level - Text as Data for the Social Sciences (LMU, 2022/2023) \
-[slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EuKp3FUNQIxHhYyQjcnhDW4B-oQhQ-i0x1qlBmuH26-V2Q?e=4U4Zbd)
+- Graduate Level - Text as Data for the Social Sciences (LMU, 2022/2023) \
+  [slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EuKp3FUNQIxHhYyQjcnhDW4B-oQhQ-i0x1qlBmuH26-V2Q?e=4U4Zbd)
 
-Graduate Level - Introductory Course to Stata (CREST, 2020) \
-[gitlab]((https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md))
+- Graduate Level - Introductory Course to Stata (CREST, 2020) \
+  [gitlab]((https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md))
 
 
 ## Software
 
-relatio: A Python package to extract simple narrative statements from large text corpora \
-[github](https://github.com/relatio-nlp/relatio),  [pypi](https://pypi.org/project/relatio/)
+- relatio: A Python package to extract simple narrative statements from large text corpora \
+  [github](https://github.com/relatio-nlp/relatio),  [pypi](https://pypi.org/project/relatio/)
 
-gtm: A Python package to estimate flexible neural topic models \
-[github](https://github.com/PinchOfData/generalized_topic_model)
+- gtm: A Python package to estimate flexible neural topic models \
+  [github](https://github.com/PinchOfData/generalized_topic_model)
 
-IdealPointNN: A Python package to estimate neural ideal point models \
-[github](https://github.com/PinchOfData/neural_ideal_point_models)
+- IdealPointNN: A Python package to estimate neural ideal point models \
+  [github](https://github.com/PinchOfData/neural_ideal_point_models)
