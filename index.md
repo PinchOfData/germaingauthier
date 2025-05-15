@@ -18,12 +18,12 @@ germain.gauthier@unibocconi.it \
 
 Among other things, I am developing new AI methods for social scientists working with unstructured data, such as texts, images, audio, and video recordings. 
 
-Measuring Crime Incidence and Reporting: Method and Application to #MeToo \
-[working paper]((https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0))
+- Measuring Crime Incidence and Reporting: Method and Application to #MeToo \
+  [working paper]((https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0))
 
-Deep Latent Variable Models for Unstructured Data \
-(with Elliott Ash & Philine Widmer) \
-*Paper available upon request*
+- Deep Latent Variable Models for Unstructured Data \
+  (with Elliott Ash & Philine Widmer) \
+  *Paper available upon request*
 
 Neural Ideal Point Models \
 (with Hugo Subtil & Philine Widmer) \
@@ -42,11 +42,11 @@ The Lifecycle of Protests in the Digital Age \
 (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz) \
 [working paper](https://www.dropbox.com/scl/fi/dwstzxzo0pa5lls5lbvmu/Gilets_Jaunes_Theory_Empirics.pdf?rlkey=4hsj8wytobeh9a7idw8q957fs&st=vc72qdeu&dl=0)
 
-The Political Effects of X’s Recommender Algorithm \ 
+The Political Effects of X’s Recommender Algorithm \
 (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya) \
 *Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554*
 
-Artificial Inequality: How Large Language Models Disadvantage Women Job Seekers \ 
+Artificial Inequality: How Large Language Models Disadvantage Women Job Seekers \
 (with Kenza Elass, Debora Nozza, and Paola Profeta) \
 *Paper available upon request*
 
@@ -58,22 +58,26 @@ Les déterminants de la mobilisation des "Gilets Jaunes" \
 
 ## Teaching
 
-[**Graduate Level - Diversity and Global Policy (Bocconi, 2023/2024)**](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EmSf2ln-SLxHtMyXxRb10EcBXjuJVVQ99pyt6U4dBy7-UA?e=R5nucy)
+Graduate Level - Diversity and Global Policy (Bocconi, 2023/2024) \
+[slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EmSf2ln-SLxHtMyXxRb10EcBXjuJVVQ99pyt6U4dBy7-UA?e=R5nucy)
 
-[**Undergraduate Level -  Public Finance (Bocconi, 2023/2024)**](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EjkEK1I-b6NNpzQQp3TsnHYBVr8O_WnVfb__GVoXV4dNmw?e=SMMpeb) 
+Undergraduate Level -  Public Finance (Bocconi, 2023/2024) \
+[slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EjkEK1I-b6NNpzQQp3TsnHYBVr8O_WnVfb__GVoXV4dNmw?e=SMMpeb)
 
-[**Graduate Level - Text as Data for the Social Sciences (LMU, 2022/2023)**](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EuKp3FUNQIxHhYyQjcnhDW4B-oQhQ-i0x1qlBmuH26-V2Q?e=4U4Zbd) 
+Graduate Level - Text as Data for the Social Sciences (LMU, 2022/2023) \
+[slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EuKp3FUNQIxHhYyQjcnhDW4B-oQhQ-i0x1qlBmuH26-V2Q?e=4U4Zbd)
 
-[**Graduate Level - Introductory Course to Stata (CREST, 2020)**](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md) 
+Graduate Level - Introductory Course to Stata (CREST, 2020) \
+[gitlab]((https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md))
 
 
 ## Software
 
-**relatio**: A Python package to extract simple narrative statements from large text corpora \
+relatio: A Python package to extract simple narrative statements from large text corpora \
 [github](https://github.com/relatio-nlp/relatio),  [pypi](https://pypi.org/project/relatio/)
 
-**generalized_topic_models**: A Python package to estimate flexible neural topic models \
+gtm: A Python package to estimate flexible neural topic models \
 [github](https://github.com/PinchOfData/generalized_topic_model)
 
-**IdealPointNN**: A Python package to estimate neural ideal point models \
+IdealPointNN: A Python package to estimate neural ideal point models \
 [github](https://github.com/PinchOfData/neural_ideal_point_models)
