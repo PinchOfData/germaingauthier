@@ -44,7 +44,8 @@ I mainly study the societal consequences of digital technologies, such as social
 
 - The Political Effects of X’s Recommender Algorithm \
   (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya) \
-  *Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554*
+  *Swiss National Science Foundation Grant No. 100018_215554* \
+  *Paper available upon request*
 
 - Artificial Inequality: How Large Language Models Disadvantage Women Job Seekers \
   (with Kenza Elass, Debora Nozza, and Paola Profeta) \
