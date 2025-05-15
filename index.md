@@ -47,7 +47,7 @@ I mainly study the societal consequences of digital technologies, such as social
   *Swiss National Science Foundation Grant No. 100018_215554* \
   *Paper available upon request*
 
-- Artificial Inequality: How Large Language Models Disadvantage Women Job Seekers \
+- Artificial Inequality: Large Language Models Disadvantage Women Job Seekers \
   (with Kenza Elass, Debora Nozza, and Paola Profeta) \
   *Paper available upon request*
 
@@ -74,7 +74,7 @@ I mainly study the societal consequences of digital technologies, such as social
 
 ## Software
 
-- relatio: A Python package to extract simple narrative statements from large text corpora \
+- relatio: A Python package to extract narrative statements from texts \
   [github](https://github.com/relatio-nlp/relatio),  [pypi](https://pypi.org/project/relatio/)
 
 - gtm: A Python package to estimate flexible neural topic models \
