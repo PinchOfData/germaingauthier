@@ -25,35 +25,35 @@ Among other things, I am developing new AI methods for social scientists working
   (with Elliott Ash & Philine Widmer) \
   *Paper available upon request*
 
-Neural Ideal Point Models \
-(with Hugo Subtil & Philine Widmer) \
-*Paper available upon request*
+- Neural Ideal Point Models \
+  (with Hugo Subtil & Philine Widmer) \
+  *Paper available upon request*
 
-Relatio: Text Semantics Capture Political and Economic Narratives \
-(with Elliott Ash & Philine Widmer) \
-<u>Political Analysis</u>, 2023 \
-[published version](https://www.cambridge.org/core/journals/political-analysis/article/relatio-text-semantics-capture-political-and-economic-narratives/E72C0482A44C9A817E381B394A73E2D6), [working paper](https://arxiv.org/abs/2108.01720), [replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3BRWKK&faces-redirect=true)
+- Relatio: Text Semantics Capture Political and Economic Narratives \
+  (with Elliott Ash & Philine Widmer) \
+  <u>Political Analysis</u>, 2023 \
+  [published version](https://www.cambridge.org/core/journals/political-analysis/article/relatio-text-semantics-capture-political-and-economic-narratives/E72C0482A44C9A817E381B394A73E2D6), [working paper](https://arxiv.org/abs/2108.01720), [replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3BRWKK&faces-redirect=true)
 
 ### Applied Work
 
 I mainly study the societal consequences of digital technologies, such as social media and artificial intelligence.
 
-The Lifecycle of Protests in the Digital Age \
-(with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz) \
-[working paper](https://www.dropbox.com/scl/fi/dwstzxzo0pa5lls5lbvmu/Gilets_Jaunes_Theory_Empirics.pdf?rlkey=4hsj8wytobeh9a7idw8q957fs&st=vc72qdeu&dl=0)
+- The Lifecycle of Protests in the Digital Age \
+  (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz) \
+  [working paper](https://www.dropbox.com/scl/fi/dwstzxzo0pa5lls5lbvmu/Gilets_Jaunes_Theory_Empirics.pdf?rlkey=4hsj8wytobeh9a7idw8q957fs&st=vc72qdeu&dl=0)
 
-The Political Effects of X’s Recommender Algorithm \
-(with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya) \
-*Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554*
+- The Political Effects of X’s Recommender Algorithm \
+  (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya) \
+  *Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554*
 
-Artificial Inequality: How Large Language Models Disadvantage Women Job Seekers \
-(with Kenza Elass, Debora Nozza, and Paola Profeta) \
-*Paper available upon request*
+- Artificial Inequality: How Large Language Models Disadvantage Women Job Seekers \
+  (with Kenza Elass, Debora Nozza, and Paola Profeta) \
+  *Paper available upon request*
 
-Les déterminants de la mobilisation des "Gilets Jaunes" \
-(with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) \
-<u>Revue Economique</u>, Vol. 71 - 1. Jan. 2020  \
-[published version](https://www.cairn.info/revue-economique-2020-1-page-109.htm), [policy brief](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270), [column](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
+- Les déterminants de la mobilisation des "Gilets Jaunes" \
+  (with Pierre Boyer, Thomas Delemotte, Vincent Rollet & Benoît Schmutz) \
+  <u>Revue Economique</u>, Vol. 71 - 1. Jan. 2020  \
+  [published version](https://www.cairn.info/revue-economique-2020-1-page-109.htm), [policy brief](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270), [column](https://www.lemonde.fr/idees/article/2019/11/15/entre-facebook-et-le-rond-point-la-double-originalite-du-mouvement-des-gilets-jaunes_6019218_3232.html#xtor=AL-32280270)
 
 
 ## Teaching
