@@ -33,12 +33,12 @@
 
 .markdown-body > .highlighter-rouge,
 .markdown-body > blockquote {
-  padding: .5rem 6rem;  /* Increased from 4rem to 6rem */
-  margin: 2em -6rem;    /* Increased from -4rem to -6rem */
+  padding: .5rem 4rem;  
+  margin: 2em -4rem;    
 }
 
 .markdown-body > hr {
-  margin: 2em -6rem;    /* Increased from -4rem to -6rem */
+  margin: 2em -4rem;    
   border: 0;
   border-bottom: 1px dotted #CCC;
 }
@@ -46,5 +46,5 @@
 .markdown-body blockquote {
   background: #f9f9f9;
   border-left: .2rem solid #ccc;
-  padding-left: 5.8rem;  /* Increased from 3.8rem to 5.8rem */
+  padding-left: 3.8rem;  
 }
