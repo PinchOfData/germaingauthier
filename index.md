@@ -19,7 +19,7 @@ germain.gauthier@unibocconi.it \
 Among other things, I am developing new AI methods for social scientists working with unstructured data, such as texts, images, audio, and video recordings. 
 
 - Measuring Crime Incidence and Reporting: Method and Application to #MeToo \
-  [working paper]((https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0))
+  [working paper](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0)
 
 - Deep Latent Variable Models for Unstructured Data \
   (with Elliott Ash & Philine Widmer) \
