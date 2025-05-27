@@ -11,7 +11,6 @@ Bocconi University
 germain.gauthier@unibocconi.it \
 [curriculum vitae](https://www.dropbox.com/s/wo9xrlgyodbgth1/CV_Germain_Gauthier.pdf?dl=0)
 
-
 ## Research
 
 ### Methods
@@ -22,7 +21,7 @@ Among other things, I am developing new AI methods for social scientists working
   [working paper](https://www.dropbox.com/s/jepq64dfauyo1t6/metoo_crime_v6.pdf?dl=0)
 
 - Deep Latent Variable Models for Unstructured Data \
-  (with Elliott Ash & Philine Widmer) \
+  (with Philine Widmer & Elliott Ash) \
   *Paper available upon request*
 
 - Neural Ideal Point Models \
@@ -40,7 +39,7 @@ I mainly study the societal consequences of digital technologies, such as social
 
 - The Lifecycle of Protests in the Digital Age \
   (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz) \
-  [working paper](https://www.dropbox.com/scl/fi/dwstzxzo0pa5lls5lbvmu/Gilets_Jaunes_Theory_Empirics.pdf?rlkey=4hsj8wytobeh9a7idw8q957fs&st=vc72qdeu&dl=0)
+  [working paper](https://www.dropbox.com/scl/fi/dwstzxzo0pa5lls5lbvmu/Gilets_Jaunes_Theory_Empirics.pdf?rlkey=4hsj8wytobeh9a7idw8q957fs&st=0cpn2svu&dl=0)
 
 - The Political Effects of X’s Recommender Algorithm \
   (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya) \
