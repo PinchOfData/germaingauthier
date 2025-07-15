@@ -81,3 +81,6 @@ I mainly study the societal consequences of digital technologies, such as social
 
 - IdealPointNN: A Python package to estimate neural ideal point models \
   [github](https://github.com/PinchOfData/neural_ideal_point_models)
+
+- Alfred: A personalized AI assistant with built-in memory \
+  [github](https://github.com/PinchOfData/alfred)
