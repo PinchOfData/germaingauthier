@@ -76,11 +76,8 @@ I mainly study the societal consequences of digital technologies, such as social
 - relatio: A Python package to extract narrative statements from texts \
   [github](https://github.com/relatio-nlp/relatio),  [pypi](https://pypi.org/project/relatio/)
 
-- gtm: A Python package to estimate flexible neural topic models \
-  [github](https://github.com/PinchOfData/generalized_topic_model)
-
-- IdealPointNN: A Python package to estimate neural ideal point models \
-  [github](https://github.com/PinchOfData/neural_ideal_point_models)
+- DeepLatent: A Python package to estimate latent variable models via deep learning \
+  [github](https://github.com/PinchOfData/DeepLatent)
 
 - Alfred: A personalized AI assistant with built-in memory \
   [github](https://github.com/PinchOfData/alfred)
