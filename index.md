@@ -17,6 +17,8 @@ germain.gauthier@unibocconi.it \
 
 Among other things, I am developing new AI methods for social scientists working with unstructured data, such as texts, images, audio, and video recordings. 
 
+### Methods
+
 - Deep Latent Variable Models for Unstructured Data \
   (with Philine Widmer & Elliott Ash) \
   *Paper available upon request*
@@ -85,5 +87,6 @@ I mainly study the societal consequences of digital technologies, such as social
 
 - Alfred: A personalized AI assistant with built-in memory \
   [github](https://github.com/PinchOfData/alfred)
+
 
 
