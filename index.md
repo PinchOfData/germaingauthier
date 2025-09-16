@@ -41,6 +41,10 @@ I mainly study the societal consequences of digital technologies, such as social
   (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz) \
   [working paper](https://www.dropbox.com/scl/fi/dwstzxzo0pa5lls5lbvmu/Gilets_Jaunes_Theory_Empirics.pdf?rlkey=4hsj8wytobeh9a7idw8q957fs&st=0cpn2svu&dl=0)
 
+- Cycling through Elections: The Political Consequences of the Tour de France \
+  (with Ala Alrababah, Maelle Delouis-Jost & Adam Polak) \
+  [working paper](https://osf.io/preprints/socarxiv/fj4vh_v1)
+
 - The Political Effects of X’s Recommender Algorithm \
   (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya) \
   *Swiss National Science Foundation Grant No. 100018_215554* \
@@ -81,3 +85,4 @@ I mainly study the societal consequences of digital technologies, such as social
 
 - Alfred: A personalized AI assistant with built-in memory \
   [github](https://github.com/PinchOfData/alfred)
+
