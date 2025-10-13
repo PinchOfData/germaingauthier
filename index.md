@@ -40,7 +40,7 @@ I mainly study the societal consequences of digital technologies, such as social
 - The Political Effects of X’s Feed Algorithm \
   (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya) \
   *Swiss National Science Foundation Grant No. 100018_215554* \
-  *(R&R at <u>Nature<u>)* \
+  *(R&R at <u>Nature</u>)* \
   *Paper available upon request*
 
 - Artificial Inequality: Large Language Models Disadvantage Women Job Seekers \
@@ -86,6 +86,7 @@ I mainly study the societal consequences of digital technologies, such as social
 
 - Alfred: A personalized AI assistant with built-in memory \
   [github](https://github.com/PinchOfData/alfred)
+
 
 
 
