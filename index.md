@@ -63,17 +63,17 @@ I mainly study the societal consequences of digital technologies, such as social
 
 ## Teaching
 
-- Graduate Level - Diversity and Global Policy (Bocconi, 2023/2024) \
+- Graduate Level - Diversity and Global Policy (Bocconi, 2023-2026) \
   [slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EmSf2ln-SLxHtMyXxRb10EcBXjuJVVQ99pyt6U4dBy7-UA?e=R5nucy)
 
-- Undergraduate Level -  Public Finance (Bocconi, 2023/2024) \
+- Undergraduate Level -  Public Finance (Bocconi, 2023-2026) \
   [slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EjkEK1I-b6NNpzQQp3TsnHYBVr8O_WnVfb__GVoXV4dNmw?e=SMMpeb)
 
 - Graduate Level - Text as Data for the Social Sciences (LMU, 2022/2023) \
   [slides](https://bocconi-my.sharepoint.com/:f:/g/personal/germain_gauthier_unibocconi_it/EuKp3FUNQIxHhYyQjcnhDW4B-oQhQ-i0x1qlBmuH26-V2Q?e=4U4Zbd)
 
 - Graduate Level - Introductory Course to Stata (CREST, 2020) \
-  [gitlab]((https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md))
+  [gitlab](https://gitlab.com/germain.gauthier/code-for-econometrics-101/-/blob/master/poly.md)
 
 
 ## Software
@@ -86,6 +86,7 @@ I mainly study the societal consequences of digital technologies, such as social
 
 - Alfred: A personalized AI assistant with built-in memory \
   [github](https://github.com/PinchOfData/alfred)
+
 
 
 
