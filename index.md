@@ -43,7 +43,7 @@ I mainly study the societal consequences of digital technologies, such as social
   *R&R at <u>Nature</u>* \
   *Paper available upon request*
 
-- Artificial Inequality: Large Language Models Disadvantage Women Job Seekers \
+- Automating Inequality: Gender Bias in AI-mediated Labor Markets \
   (with Kenza Elass, Debora Nozza, and Paola Profeta) \
   *Paper available upon request*
 
@@ -86,6 +86,7 @@ I mainly study the societal consequences of digital technologies, such as social
 
 - Alfred: A personalized AI assistant with built-in memory \
   [github](https://github.com/PinchOfData/alfred)
+
 
 
 
