@@ -82,10 +82,11 @@ I mainly study the societal consequences of digital technologies, such as social
   [github](https://github.com/relatio-nlp/relatio),  [pypi](https://pypi.org/project/relatio/)
 
 - DeepLatent: A Python package to estimate latent variable models via deep learning \
-  [github](https://github.com/PinchOfData/DeepLatent)
+  [github](https://github.com/PinchOfData/DeepLatent), [pypi](https://pypi.org/project/deeplatent/)
 
 - Alfred: A personalized AI assistant with built-in memory \
   [github](https://github.com/PinchOfData/alfred)
+
 
 
 
