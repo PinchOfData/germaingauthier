@@ -40,7 +40,7 @@ I mainly study the societal consequences of digital technologies, such as social
 - The Political Effects of X’s Feed Algorithm \
   (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya) \
   *Swiss National Science Foundation Grant No. 100018_215554* \
-  *R&R at <u>Nature</u>* \
+  *<u>Conditionally accepted at Nature</u>* \
   *Paper available upon request*
 
 - Automating Inequality: Gender Bias in AI-mediated Labor Markets \
