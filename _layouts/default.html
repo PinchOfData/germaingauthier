@@ -9,10 +9,10 @@
       <header>
         <h1 class="site-title">{{ site.title }}</h1>
         <nav>
-          <a href="/index" {% if page.permalink == '/index' %}class="active"{% endif %}>About</a>
-          <a href="/papers" {% if page.permalink == '/papers' %}class="active"{% endif %}>Papers</a>
-          <a href="/teaching" {% if page.permalink == '/teaching' %}class="active"{% endif %}>Teaching</a>
-          <a href="/software" {% if page.permalink == '/software' %}class="active"{% endif %}>Software</a>
+          <a href="{{ site.baseurl }}/index" {% if page.permalink == '/index' %}class="active"{% endif %}>About</a>
+          <a href="{{ site.baseurl }}/papers" {% if page.permalink == '/papers' %}class="active"{% endif %}>Papers</a>
+          <a href="{{ site.baseurl }}/teaching" {% if page.permalink == '/teaching' %}class="active"{% endif %}>Teaching</a>
+          <a href="{{ site.baseurl }}/software" {% if page.permalink == '/software' %}class="active"{% endif %}>Software</a>
         </nav>
       </header>
 

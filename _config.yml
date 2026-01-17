@@ -1,7 +1,8 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Germain Gauthier"
 description:      ""
-url:              https://pinchofdata.github.io/germaingauthier # Site url, without a slash at the end.
+url:              https://pinchofdata.github.io # Site url, without a slash at the end.
+baseurl:          /germaingauthier # Subpath of the site (e.g., /projectname)
 signoff:          "" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
