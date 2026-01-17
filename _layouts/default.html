@@ -1,34 +1,33 @@
 {% assign is_post = page.date %}
-<!doctype>
+<!DOCTYPE html>
 <html lang="en">
-  <head> 
+  <head>
     {% include head.html %}
   </head>
-  <body class="lh-copy dark-gray pa0 f6 serif bg-super-white">
-    <header class="tc mt4">
-      <p style="font-size: 26px"><b>{{ site.title }}</b></p>
-    </header>
-    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
-      <font size="4"> 
-      </font>
+  <body>
+    <div class="container">
+      <header>
+        <h1 class="site-title">{{ site.title }}</h1>
+        <nav>
+          <a href="/index" {% if page.permalink == '/index' %}class="active"{% endif %}>About</a>
+          <a href="/papers" {% if page.permalink == '/papers' %}class="active"{% endif %}>Papers</a>
+          <a href="/teaching" {% if page.permalink == '/teaching' %}class="active"{% endif %}>Teaching</a>
+          <a href="/software" {% if page.permalink == '/software' %}class="active"{% endif %}>Software</a>
+        </nav>
+      </header>
 
-      <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
-        <div class="markdown-body", style="text-align: justify">
-        <font size="3">  
-          {{ content }}
-        </font>
-        </div>
+      <main>
+        {{ content }}
         {% if is_post %}{% include signoff.html %}{% endif %}
       </main>
+
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
   </body>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    // Select all anchor tags
     document.querySelectorAll('a[href^="http"]').forEach(function(link) {
-      // Check if the link is external by ensuring it does not contain the site's domain
       if (link.hostname !== window.location.hostname) {
         link.setAttribute("target", "_blank");
         link.setAttribute("rel", "noopener noreferrer");

@@ -1,0 +1,11 @@
+Lecture 1 (text cleaning): https://tinyurl.com/yc6r8rp7
+
+Lecture 2 (dictionaries): https://tinyurl.com/3wapzeaj
+
+Lecture 3 (text regressions): https://tinyurl.com/yc6uhmkj
+
+Lecture 4 (topics): https://tinyurl.com/5n8zwew6
+
+Lecture 5 (embeddings): https://tinyurl.com/7uzwywzb
+
+Lectures 7 & 8 (transformers & LLMs): https://tinyurl.com/2vud3p7c
