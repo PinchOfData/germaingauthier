@@ -17,6 +17,8 @@ I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DO
 
 ### Recent News
 
-- 17/01/2026: IGIER and DONDENA are organizing a conference on AI on June 11-12 at Bocconi. Consider [submitting your paper](pdfs/other/AI_and_Society_Conference-call-for-paper%20(final).pdf){:target="_blank"}! (Deadline: February 15.)
+- 17/01/2026: Just visited USI Lugano for a week, teaching a PhD level course on Text as Data. Check out the slides and notebooks in my teaching section if interested.
 
-- 17/01/2026: A new WP version of our paper on [The Lifecycle of Protests in the Digital Age](pdfs/papers/Gilets_Jaunes_Theory_Empirics.pdf){:target="_blank"} is out. Really like it, hope you will too!
+- 16/01/2026: A new WP version of our paper on [The Lifecycle of Protests in the Digital Age](pdfs/papers/Gilets_Jaunes_Theory_Empirics.pdf){:target="_blank"} is out. Really like it, hope you will too!
+
+- 10/01/2026: IGIER and DONDENA are organizing a conference on AI on June 11-12 at Bocconi. Consider [submitting your paper](pdfs/other/AI_and_Society_Conference-call-for-paper%20(final).pdf){:target="_blank"}! (Deadline: February 15.)
