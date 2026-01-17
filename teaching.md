@@ -4,7 +4,7 @@ permalink: /teaching
 
 ### Teaching
 
-- **Text as Data for the Social Sciences** \
+- **Text as Data for the Social Sciences (with Philine Widmer)** \
   Slides: [Introduction](pdfs/teaching/text%20as%20data/01_introduction.pdf){:target="_blank"} |
   [Dictionaries](pdfs/teaching/text%20as%20data/02_dictionaries.pdf){:target="_blank"} |
   [Text Regressions](pdfs/teaching/text%20as%20data/03_text_regressions.pdf){:target="_blank"} |

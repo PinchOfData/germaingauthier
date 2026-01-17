@@ -17,7 +17,7 @@ I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DO
 
 ### Recent News
 
-- 17/01/2026: Just visited USI Lugano for a week, teaching a PhD level course on Text as Data. Check out the slides and notebooks in my teaching section if interested.
+- 17/01/2026: Just visited USI Lugano for a week, teaching a PhD level course on Text as Data (joint with Philine Widmer). Check out the slides and notebooks in my teaching section if interested.
 
 - 16/01/2026: A new WP version of our paper on [The Lifecycle of Protests in the Digital Age](pdfs/papers/Gilets_Jaunes_Theory_Empirics.pdf){:target="_blank"} is out. Really like it, hope you will too!
 
