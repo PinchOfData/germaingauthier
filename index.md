@@ -13,7 +13,7 @@ germain.gauthier@unibocconi.it \
 
 I am an economist working at the intersection of political economy, public economics, and econometrics. In my applied work, I study the societal consequences of digital technologies (e.g., social media, large language models). I am particularly interested in the emergence and amplification of bias in algorithmic systems and how these shape economic and political outcomes. I have notably studied the impact of social media on protests, political attitudes, and gender norms. In my methods work, I develop models to extract structured information from unstructured data (e.g., texts, images, videos). My recent focus has been on estimating latent factor models (e.g., ideology, topics) using deep neural networks.
 
-I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DONDENA](https://dondena.unibocconi.eu/) and [IGIER](https://igier.unibocconi.eu/) research centers. I am also involved in various initiatives at Bocconi, including the DONDENA AI and Society Initiative (DAISI) and the [Monitoring Democracy Initiative (MoDe)](https://monitoringdemocracy.it/).
+I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DONDENA](https://dondena.unibocconi.eu/) and [IGIER](https://igier.unibocconi.eu/) research centers. I am also involved in various initiatives at Bocconi, including the DONDENA AI and Society Initiative (DAISI), the [AXA Gender Lab](https://genderlab.unibocconi.eu/), and the [Monitoring Democracy Initiative (MoDe)](https://monitoringdemocracy.it/).
 
 ### Recent News
 
