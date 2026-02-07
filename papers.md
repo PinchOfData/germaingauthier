@@ -33,6 +33,11 @@ permalink: /papers
 
 ### Work in Progress
 
+- **Automating Inequality: Gender Bias in AI-mediated Labor Markets** \
+  (with Kenza Elass, Debora Nozza, and Paola Profeta) \
+  *R&R at <u>PNAS</u>* \
+  *Paper available upon request*
+
 - **Deep Latent Factor Models for the Social Sciences** \
   (with Philine Widmer & Elliott Ash) \
   *Paper available upon request*, [Code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
@@ -40,7 +45,3 @@ permalink: /papers
 - **Neural Ideal Point Models** \
   (with Hugo Subtil & Philine Widmer) \
   *Paper available upon request*, [Code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
-
-- **Automating Inequality: Gender Bias in AI-mediated Labor Markets** \
-  (with Kenza Elass, Debora Nozza, and Paola Profeta) \
-  *Paper available upon request*
