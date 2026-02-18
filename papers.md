@@ -44,4 +44,4 @@ permalink: /papers
 
 - **Neural Ideal Point Models** \
   (with Hugo Subtil & Philine Widmer) \
-  *Paper available upon request*, [Code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
+  *Paper available upon request*, [code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
