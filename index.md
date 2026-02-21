@@ -17,7 +17,7 @@ I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DO
 
 ### Recent News
 
-- 21/02/2026: Our [paper](https://www.nature.com/articles/s41586-026-10098-2) on the political effects of X's feed algorithm is out in <u>Nature</u>! Four years in the making. Check it out!
+- 21/02/2026: Our paper [The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2) is out in <u>Nature</u>! Four years in the making. Check it out!
 
 - 17/01/2026: Just visited USI Lugano for a week, teaching a PhD level course on Text as Data (joint with Philine Widmer). Check out the slides and notebooks in my teaching section if interested.
 
