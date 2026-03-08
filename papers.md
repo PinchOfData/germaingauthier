@@ -28,14 +28,15 @@ permalink: /papers
   (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz)
 
 - [**Cycling through Elections: The Political Consequences of the Tour de France**](pdfs/papers/Tour_de_France.pdf){:target="_blank"} \
-  (with Ala Alrababah, Maelle Delouis-Jost & Adam Polak)
+  (with Ala Alrababah, Maelle Delouis-Jost & Adam Polak) \
+  *R&R at <u>American Political Science Review</u>*
 
 
 ### Work in Progress
 
 - **Automating Inequality: Gender Bias in AI-mediated Labor Markets** \
   (with Kenza Elass, Debora Nozza, and Paola Profeta) \
-  *R&R at <u>PNAS</u>* \
+  *R&R at <u>Proceedings of the National Academy of Sciences</u>* \
   *Paper available upon request*
 
 - **Deep Latent Factor Models for the Social Sciences** \
