@@ -17,6 +17,10 @@ I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DO
 
 ### Recent News
 
+- 21/05/2026: I will be a guest researcher at CESifo between the 22 of June and the 3rd of July. Send me an email if you would like to meet with me!
+
+- 01/04/2026: I am visiting the Paris School of Economics for a couple of weeks, where I will present the new version of my work on the Me Too movement. New draft coming soon.
+
 - 21/02/2026: Our paper [The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2) is out in <u>Nature</u>! Four years in the making. Check it out!
 
 - 17/01/2026: Just visited USI Lugano for a week, teaching a PhD level course on Text as Data (joint with Philine Widmer). Check out the slides and notebooks in my teaching section if interested.
