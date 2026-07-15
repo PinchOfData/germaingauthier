@@ -22,7 +22,8 @@ permalink: /papers
 
 ### Working Papers
 
-- [**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](pdfs/papers/metoo_crime_submitted_version.pdf){:target="_blank"}
+- [**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](pdfs/papers/metoo_crime_submitted_version.pdf){:target="_blank"} \
+  [replication files](https://github.com/PinchOfData/measuring-crime-replication){:target="_blank"}
 
 - [**The Lifecycle of Protests in the Digital Age**](pdfs/papers/Gilets_Jaunes_Theory_Empirics.pdf){:target="_blank"} \
   (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz)
