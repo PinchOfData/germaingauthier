@@ -11,11 +11,15 @@ germain.gauthier@unibocconi.it \
 
 ### About Me
 
-I am an economist working at the intersection of political economy, public economics, and econometrics. In my applied work, I study the societal consequences of digital technologies (e.g., social media, large language models). I am particularly interested in the emergence and amplification of bias in algorithmic systems and how these shape economic and political outcomes. I have notably studied the impact of social media on protests, political attitudes, and gender norms. In my methods work, I develop models to extract structured information from unstructured data (e.g., texts, images, videos). My recent focus has been on estimating latent factor models (e.g., ideology, topics) using deep neural networks.
+I am an economist working at the intersection of political economy, public economics, and econometrics. In my applied work, I study the societal consequences of digital technologies (e.g., social media, large language models). I am particularly interested in the emergence and amplification of bias in algorithmic systems and how these shape economic and political outcomes. I have also studied the impact of social media on protests, political attitudes, and gender norms. In my methods work, I develop models to extract structured information from unstructured data (e.g., texts, images, videos). My recent focus has been on estimating latent factor models (e.g., ideology, topics) using deep neural networks.
 
 I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DONDENA](https://dondena.unibocconi.eu/) and [IGIER](https://igier.unibocconi.eu/) research centers. I am also involved in various initiatives at Bocconi, including the DONDENA AI and Society Initiative (DAISI), the [AXA Gender Lab](https://genderlab.unibocconi.eu/), and the [Monitoring Democracy Initiative (MoDe)](https://monitoringdemocracy.it/).
 
 ### Recent News
+
+- 14/09/2026: A very short [slide set](pdfs/ai_research_workflow.pdf){:target="_blank"} on how I use AI coding agents (advice for PhD students at Bocconi).
+
+- 01/09/2026: I gave a short lecture on ["Causal inference with unstructured data"](pdfs/causal_unstructured_data.pdf){:target="_blank"} for the [Zurich Summer School in AI and Applied Economics](https://lawecon.ethz.ch/conferences-workshops/summerschoolaieconomics.html).
 
 - 21/05/2026: I will be a guest researcher at CESifo between the 22 of June and the 3rd of July. Send me an email if you would like to meet with me!
 

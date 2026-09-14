@@ -22,28 +22,34 @@ permalink: /papers
 
 ### Working Papers
 
+- **Automating Inequality: Gender Bias in AI-mediated Labor Markets** \
+  (with Kenza Elass, Debora Nozza, and Paola Profeta) \
+  *R&R at <u>Proceedings of the National Academy of Sciences</u>* \
+  *Paper available upon request*
+
+- [**Cycling through Elections: The Political Consequences of the Tour de France**](pdfs/papers/Tour_de_France.pdf){:target="_blank"} \
+  (with Ala Alrababah, Maelle Delouis-Jost & Adam Polak) \
+  *R&R at <u>American Political Science Review</u>*
+
 - [**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](pdfs/papers/metoo_crime_submitted_version.pdf){:target="_blank"} \
   [replication files](https://github.com/PinchOfData/measuring-crime-replication){:target="_blank"}
 
 - [**The Lifecycle of Protests in the Digital Age**](pdfs/papers/Gilets_Jaunes_Theory_Empirics.pdf){:target="_blank"} \
   (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz)
 
-- [**Cycling through Elections: The Political Consequences of the Tour de France**](pdfs/papers/Tour_de_France.pdf){:target="_blank"} \
-  (with Ala Alrababah, Maelle Delouis-Jost & Adam Polak) \
-  *R&R at <u>American Political Science Review</u>*
-
 
 ### Work in Progress
 
-- **Automating Inequality: Gender Bias in AI-mediated Labor Markets** \
-  (with Kenza Elass, Debora Nozza, and Paola Profeta) \
-  *R&R at <u>Proceedings of the National Academy of Sciences</u>* \
-  *Paper available upon request*
-
 - **Deep Latent Factor Models for the Social Sciences** \
   (with Philine Widmer & Elliott Ash) \
-  *Paper available upon request*, [code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
+  [code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
 
 - **Neural Ideal Point Models** \
   (with Hugo Subtil & Philine Widmer) \
-  *Paper available upon request*, [code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
+  [code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
+
+- **Electoral Platforms and Resulting Policies** \
+  (with Caroline Le Pennec & Vincent Pons)
+
+- **On Differences in Social Media Consumption** \
+  (with Roland Hodler, Katharina Kaeppel, Alberto Ornaghi & Philine Widmer)
