@@ -42,14 +42,15 @@ permalink: /papers
 
 - **Deep Latent Factor Models for the Social Sciences** \
   (with Philine Widmer & Elliott Ash) \
-  [code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
+  [slides](pdfs/papers/deeplatent.pdf){:target="_blank"}, [code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
 
 - **Neural Ideal Point Models** \
   (with Hugo Subtil & Philine Widmer) \
   [code](https://github.com/PinchOfData/DeepLatent){:target="_blank"}
 
-- **Electoral Platforms and Resulting Policies** \
-  (with Caroline Le Pennec & Vincent Pons)
+- **Do politicians put their votes where their mouths are?** \
+  (with Caroline Le Pennec & Vincent Pons) \
+  [slides](pdfs/papers/platforms_and_policies.pdf){:target="_blank"}
 
 - **On Differences in Social Media Consumption** \
   (with Roland Hodler, Katharina Kaeppel, Alberto Ornaghi & Philine Widmer)

@@ -17,7 +17,9 @@ I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DO
 
 ### Recent News
 
-- 14/09/2026: A very short [slide set](pdfs/ai_research_workflow.pdf){:target="_blank"} on how I use AI coding agents (advice for PhD students at Bocconi).
+- 14/09/2026: I gave a talk to Bocconi PhD students on how I use AI coding agents. See the slides here: [slides](pdfs/ai_research_workflow.pdf){:target="_blank"}
+
+- 03/09/2026: I gave a talk at APSA on recent ongoing work on whether voters can rely electoral campaign platforms to infer what politicians will say and do once in office. See the slides [here](pdfs/papers/platforms_and_policies.pdf).
 
 - 01/09/2026: I gave a short lecture on ["Causal inference with unstructured data"](pdfs/causal_unstructured_data.pdf){:target="_blank"} for the [Zurich Summer School in AI and Applied Economics](https://lawecon.ethz.ch/conferences-workshops/summerschoolaieconomics.html).
 
@@ -28,7 +30,3 @@ I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DO
 - 21/02/2026: Our paper [The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2) is out in <u>Nature</u>! Four years in the making. Check it out!
 
 - 17/01/2026: Just visited USI Lugano for a week, teaching a PhD level course on Text as Data (joint with Philine Widmer). Check out the slides and notebooks in my teaching section if interested.
-
-- 16/01/2026: A new WP version of our paper on [The Lifecycle of Protests in the Digital Age](pdfs/papers/Gilets_Jaunes_Theory_Empirics.pdf){:target="_blank"} is out. Really like it, hope you will too!
-
-- 10/01/2026: IGIER and DONDENA are organizing a conference on AI on June 11-12 at Bocconi. Consider [submitting your paper](pdfs/other/AI_and_Society_Conference-call-for-paper%20(final).pdf){:target="_blank"}! (Deadline: February 15.)
