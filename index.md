@@ -19,7 +19,7 @@ I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DO
 
 - 14/09/2026: I gave a talk to Bocconi PhD students on how I use AI coding agents. See the slides [here](pdfs/teaching/ai_research_workflow.pdf){:target="_blank"}.
 
-- 03/09/2026: I gave a talk at APSA on recent ongoing work on whether voters can rely electoral campaign platforms to infer what politicians will say and do once in office. See the slides [here](pdfs/papers/platforms_and_policies.pdf).
+- 03/09/2026: I gave a talk at APSA on recent ongoing work on whether voters can rely electoral campaign platforms to infer what politicians will say and do once in office. See the slides [here](pdfs/papers/platforms_and_policies.pdf){:target="_blank"}.
 
 - 01/09/2026: I gave a short lecture on ["Causal inference with unstructured data"](pdfs/teaching/causal_unstructured_data.pdf){:target="_blank"} for the [Zurich Summer School in AI and Applied Economics](https://lawecon.ethz.ch/conferences-workshops/summerschoolaieconomics.html).
 
