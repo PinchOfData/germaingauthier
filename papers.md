@@ -54,3 +54,10 @@ permalink: /papers
 
 - **On Differences in Social Media Consumption** \
   (with Roland Hodler, Katharina Kaeppel, Alberto Ornaghi & Philine Widmer)
+
+- **Algorithmic Amplicication of Politics on Social Media** \
+  (with Philine Widmer & Ekaterina Zhuravskaya)
+
+- **Changing recommender algorithms** \
+  (with Philine Widmer) \
+  *in preparation for the Cambridge Handbook of Digital Manipulation*
