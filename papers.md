@@ -22,7 +22,7 @@ permalink: /papers
 
 ### Working Papers
 
-- **Automating Inequality: Gender Bias in AI-mediated Labor Markets** \
+- **Automating Inequality? Gender Bias in AI-mediated Labor Markets** \
   (with Kenza Elass, Debora Nozza, and Paola Profeta) \
   *R&R at <u>Proceedings of the National Academy of Sciences</u>* \
   *Paper available upon request*
@@ -55,7 +55,7 @@ permalink: /papers
 - **On Differences in Social Media Consumption** \
   (with Roland Hodler, Katharina Kaeppel, Alberto Ornaghi & Philine Widmer)
 
-- **Algorithmic Amplicication of Politics on Social Media** \
+- **Algorithmic Amplification of Politics on Social Media** \
   (with Philine Widmer & Ekaterina Zhuravskaya)
 
 - **Changing recommender algorithms** \
