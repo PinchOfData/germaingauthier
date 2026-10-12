@@ -24,18 +24,18 @@ permalink: /papers
 
 - **Automating Inequality? Gender Bias in AI-mediated Labor Markets** \
   (with Kenza Elass, Debora Nozza, and Paola Profeta) \
-  *R&R at <u>Proceedings of the National Academy of Sciences</u>* \
-  *Paper available upon request*
+  *R&R at <u>Proceedings of the National Academy of Sciences</u>*
 
 - [**Cycling through Elections: The Political Consequences of the Tour de France**](pdfs/papers/Tour_de_France.pdf){:target="_blank"} \
   (with Ala Alrababah, Maelle Delouis-Jost & Adam Polak) \
   *R&R at <u>American Political Science Review</u>*
 
-- [**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](pdfs/papers/metoo_crime_submitted_version.pdf){:target="_blank"} \
-  [replication files](https://github.com/PinchOfData/measuring-crime-replication){:target="_blank"}
-
 - [**The Lifecycle of Protests in the Digital Age**](pdfs/papers/Gilets_Jaunes_Theory_Empirics.pdf){:target="_blank"} \
   (with Pierre Boyer, Yves Le Yaouanq, Vincent Rollet & Benoît Schmutz)
+  *R&R at <u>Journal of the European Economic Association</u>*
+
+- [**Measuring Crime Incidence and Reporting: Method and Application to #MeToo**](pdfs/papers/metoo_crime_submitted_version.pdf){:target="_blank"} \
+  [replication files](https://github.com/PinchOfData/measuring-crime-replication){:target="_blank"}
 
 
 ### Work in Progress
