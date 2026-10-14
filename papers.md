@@ -24,7 +24,7 @@ permalink: /papers
 
 - **Automating Inequality? Gender Bias in AI-mediated Labor Markets** \
   (with Kenza Elass, Debora Nozza, and Paola Profeta) \
-  *R&R at <u>Proceedings of the National Academy of Sciences</u>*
+  *Accepted at <u>Proceedings of the National Academy of Sciences</u>*
 
 - [**Cycling through Elections: The Political Consequences of the Tour de France**](pdfs/papers/Tour_de_France.pdf){:target="_blank"} \
   (with Ala Alrababah, Maelle Delouis-Jost & Adam Polak) \
