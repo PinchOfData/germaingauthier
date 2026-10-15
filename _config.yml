@@ -1,21 +1,16 @@
-# ----------- CONFIGURABLE START -----------
 title:            "Germain Gauthier"
-description:      ""
+description:      "Germain Gauthier is an Assistant Professor of Economics at Bocconi University, working on political economy, public economics, and econometrics."
 url:              https://pinchofdata.github.io # Site url, without a slash at the end.
 baseurl:          /germaingauthier # Subpath of the site (e.g., /projectname)
-signoff:          "" # Your name
-facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:            false # Turn on twitter and facebook share buttons
 
-links:
-  - name:         
-    url:          /index
-    external:     false
-    
-# ------------ CONFIGURABLE END ------------
+# Setting exclude replaces Jekyll's defaults on GitHub Pages, so they are listed here too.
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
 
-permalink:        /index
 defaults:
   - values:
       layout: "default"

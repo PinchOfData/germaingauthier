@@ -1,14 +1,23 @@
-on: push
+name: Build and check links
+
+on: [push, pull_request]
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: script/cibuild
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-ruby@v1
+      - uses: actions/checkout@v5
+
+      # Same builder GitHub Pages uses, so a green check means Pages will build too.
+      - name: Build site
+        uses: actions/jekyll-build-pages@v1
+
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
-      - name: build
-        run: script/bootstrap
-      - name: test
-        run: script/cibuild
+          ruby-version: '3.3'
+
+      # Internal links only (PDFs, pages, images); publisher sites block bots, so external checks are flaky.
+      - name: Check internal links
+        run: |
+          gem install html-proofer --no-document
+          htmlproofer ./_site --disable-external --swap-urls '^/germaingauthier/:/'

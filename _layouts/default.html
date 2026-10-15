@@ -1,4 +1,3 @@
-{% assign is_post = page.date %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -18,10 +17,7 @@
 
       <main>
         {{ content }}
-        {% if is_post %}{% include signoff.html %}{% endif %}
       </main>
-
-      {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
   </body>
 

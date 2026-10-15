@@ -70,6 +70,14 @@ main {
 main p {
   margin-bottom: 1.25rem;
   text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+/* Keep paper titles whole */
+main strong {
+  -webkit-hyphens: manual;
+  hyphens: manual;
 }
 
 main h3 {
@@ -112,6 +120,53 @@ main ul li p {
 /* For nested content in list items */
 main ul li br + * {
   margin-top: 0.25rem;
+}
+
+/* Collapsible abstracts */
+details {
+  margin-top: 0.35rem;
+}
+
+details summary {
+  display: inline-block;
+  cursor: pointer;
+  list-style: none;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: "▸ ";
+}
+
+details[open] summary::before {
+  content: "▾ ";
+}
+
+details summary:hover {
+  color: #111;
+}
+
+main details p {
+  margin: 0.5rem 0 0;
+  padding-left: 0.9rem;
+  border-left: 2px solid #e5e7eb;
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: #555;
+}
+
+/* 404 page */
+.not-found {
+  text-align: center;
+}
+
+.not-found p {
+  text-align: center;
 }
 
 /* Code blocks */
@@ -170,5 +225,12 @@ hr {
 
   nav a {
     font-size: 0.9rem;
+  }
+
+  /* Justified text leaves wide gaps on narrow screens */
+  main p {
+    text-align: left;
+    -webkit-hyphens: manual;
+    hyphens: manual;
   }
 }

@@ -1,5 +1,6 @@
 ---
 permalink: /software
+title: Software
 ---
 
 ### Software

@@ -6,8 +6,10 @@ Assistant Professor of Economics \
 Department of Social and Political Sciences \
 Bocconi University
 
-germain.gauthier@unibocconi.it \
-[curriculum vitae](pdfs/other/CV_Germain_Gauthier.pdf){:target="_blank"}
+[germain.gauthier@unibocconi.it](mailto:germain.gauthier@unibocconi.it) \
+[curriculum vitae](pdfs/other/CV_Germain_Gauthier.pdf){:target="_blank"} \
+[Google Scholar](https://scholar.google.com/citations?user=8ZU-UgYAAAAJ) \
+[GitHub](https://github.com/PinchOfData)
 
 ### About Me
 
@@ -19,14 +21,14 @@ I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DO
 
 - 14/09/2026: I gave a talk to Bocconi PhD students on how I use AI coding agents. See the slides [here](pdfs/teaching/ai_research_workflow.pdf){:target="_blank"}.
 
-- 03/09/2026: I gave a talk at APSA on recent ongoing work on whether voters can rely electoral campaign platforms to infer what politicians will say and do once in office. See the slides [here](pdfs/papers/platforms_and_policies.pdf){:target="_blank"}.
+- 03/09/2026: I gave a talk at APSA on recent ongoing work on whether voters can rely on electoral campaign platforms to infer what politicians will say and do once in office. See the slides [here](pdfs/papers/platforms_and_policies.pdf){:target="_blank"}.
 
 - 01/09/2026: I gave a short lecture on ["Causal inference with unstructured data"](pdfs/teaching/causal_unstructured_data.pdf){:target="_blank"} for the [Zurich Summer School in AI and Applied Economics](https://lawecon.ethz.ch/conferences-workshops/summerschoolaieconomics.html).
 
-- 21/05/2026: I will be a guest researcher at CESifo between the 22 of June and the 3rd of July. Send me an email if you would like to meet with me!
+- 21/05/2026: I will be a guest researcher at CESifo between 22 June and 3 July. Send me an email if you would like to meet with me!
 
 - 01/04/2026: I am visiting the Paris School of Economics for a couple of weeks, where I will present the new version of my work on the Me Too movement. New draft coming soon.
 
-- 21/02/2026: Our paper [The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2) is out in <u>Nature</u>! Four years in the making. Check it out!
+- 21/02/2026: Our paper [The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2) is out in *Nature*! Four years in the making. Check it out!
 
 - 17/01/2026: Just visited USI Lugano for a week, teaching a PhD level course on Text as Data (joint with Philine Widmer). Check out the slides and notebooks in my teaching section if interested.
