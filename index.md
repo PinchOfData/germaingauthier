@@ -15,9 +15,11 @@ Bocconi University
 
 I am an economist working at the intersection of political economy, public economics, and econometrics. In my applied work, I study the societal consequences of digital technologies (e.g., social media, large language models). I am particularly interested in the emergence and amplification of bias in algorithmic systems and how these shape economic and political outcomes. I have also studied the impact of social media on protests, political attitudes, and gender norms. In my methods work, I develop models to extract structured information from unstructured data (e.g., texts, images, videos). My recent focus has been on estimating latent factor models (e.g., ideology, topics) using deep neural networks.
 
-I am affiliated with [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DONDENA](https://dondena.unibocconi.eu/) and [IGIER](https://igier.unibocconi.eu/) research centers. I am also involved in various initiatives at Bocconi, including the DONDENA AI and Society Initiative (DAISI), the [AXA Gender Lab](https://genderlab.unibocconi.eu/), and the [Monitoring Democracy Initiative (MoDe)](https://monitoringdemocracy.it/).
+I am affiliated with [CEPR](https://cepr.org/), [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage), [DONDENA](https://dondena.unibocconi.eu/) and [IGIER](https://igier.unibocconi.eu/) research centers. I am also involved in various initiatives at Bocconi, including the [AI and Social Sciences (AISS) Lab](https://aiss.unibocconi.eu/), the [AXA Gender Lab](https://genderlab.unibocconi.eu/), and the [Monitoring Democracy Initiative (MoDe)](https://monitoringdemocracy.it/).
 
 ### Recent News
+
+- 10/2026: I am the recipient of the Research Impact Award at Bocconi for my work on X's feed algorithm. Very grateful!
 
 - 14/09/2026: I gave a talk to Bocconi PhD students on how I use AI coding agents. See the slides [here](pdfs/teaching/ai_research_workflow.pdf){:target="_blank"}.
 
