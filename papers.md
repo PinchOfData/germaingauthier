@@ -5,6 +5,16 @@ title: Papers
 
 ### Publications
 
+- [**Automating Inequality? Gender Bias in AI-mediated Labor Markets**](https://www.pnas.org/doi/10.1073/pnas.2534118123){:target="_blank"} \
+  (with Kenza Elass, Debora Nozza & Paola Profeta) \
+  *Proceedings of the National Academy of Sciences*, 2026 \
+  [preprint](pdfs/papers/Automating_Inequality_preprint.pdf){:target="_blank"}, [replication files](https://zenodo.org/records/22817427){:target="_blank"}
+
+  <details>
+  <summary>Abstract</summary>
+  <p>Generative AI is rapidly entering labor markets, with large language models (LLMs) now used to help write CVs and evaluate applicants. We study the risks this creates in a series of audit experiments in which applicant gender is randomly assigned while all other information is held constant. We find that LLMs generate gender-stereotypical CVs and exhibit gender bias in screening scores and wage recommendations. Screening scores track occupational gender segregation, penalizing women in male-dominated occupations and favoring them in female-dominated ones. Wage recommendations track occupational gender wage gaps when gender is explicit in the prompt, though this gradient weakens under name-based gender signaling and is sensitive to the LLMs being used. These disparities arise through two channels: evaluation bias, when identical CV content is evaluated differently by gender, and generation bias, when gendered content produced by the model affects later evaluation. Because the same systems shape both CV content and its subsequent assessment, these channels can reinforce one another. Taken together, our findings identify measurable risks of algorithmic amplification in AI-mediated job search.</p>
+  </details>
+
 - [**The Political Effects of X's Feed Algorithm**](https://www.nature.com/articles/s41586-026-10098-2) \
   (with Roland Hodler, Philine Widmer & Ekaterina Zhuravskaya) \
   *Nature*, 2026 \
@@ -37,10 +47,6 @@ title: Papers
 
 
 ### Working Papers
-
-- **Automating Inequality? Gender Bias in AI-mediated Labor Markets** \
-  (with Kenza Elass, Debora Nozza & Paola Profeta) \
-  *Accepted at Proceedings of the National Academy of Sciences*
 
 - [**Cycling through Elections: The Political Consequences of the Tour de France**](pdfs/papers/Tour_de_France.pdf){:target="_blank"} \
   (with Ala Alrababah, Maelle Delouis-Jost & Adam Polak) \

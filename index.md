@@ -19,6 +19,8 @@ I am affiliated with [CEPR](https://cepr.org/), [CESifo](https://www.ifo.de/en/c
 
 ### Recent News
 
+- 17/11/2026: Our paper [Automating Inequality? Gender Bias in AI-mediated Labor Markets](https://www.pnas.org/doi/10.1073/pnas.2534118123) is out in *PNAS*!
+
 - 10/2026: I am the recipient of the Research Impact Award at Bocconi for my work on X's feed algorithm. Very grateful!
 
 - 14/09/2026: I gave a talk to Bocconi PhD students on how I use AI coding agents. See the slides [here](pdfs/teaching/ai_research_workflow.pdf){:target="_blank"}.
